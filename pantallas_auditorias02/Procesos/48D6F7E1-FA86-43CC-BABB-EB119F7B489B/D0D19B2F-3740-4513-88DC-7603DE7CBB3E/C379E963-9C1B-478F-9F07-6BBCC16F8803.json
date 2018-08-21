@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C379E963-9C1B-478F-9F07-6BBCC16F8803",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "78BB5C70-C205-437F-B760-C50F22CDDDB7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "31766FFF-7724-4E8D-BB65-425A24DFC2F1",
+    "height": 28.33333333333334,
+    "width": 25,
+    "x": 12,
+    "y": 481
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icono/documentacion",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CC6AA285-01F8-411C-9713-095A48BBC4AE",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "27EC6479-0796-4F16-A17A-82222D42AE3E",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 28.33333,
+            "enabled": 1,
+            "modelID": "constraint_ae6544c4-30d8-4e90-ab0d-ed46200f9d64",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 25
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_e902bd8d-4c0a-4fbc-9623-a62ab0b54959",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,84 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "EE36C00F-95AD-4758-9A26-A6F3F6E2F2B9",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 677,
+  "do_objectID": "DDFC10D1-973B-4C35-A2CC-3222B912AD11",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E53B604B-2EF6-4F94-994F-95B99A94A251",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FA41914E-723D-4855-9CC3-7EC6B42800B5",
+    "height": 624,
+    "width": 147,
+    "x": -22,
+    "y": 1441
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0A0D80D0-4389-4774-8F3E-D834BFDB4B55",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "ED5339DE-5277-4C9E-B654-B6BE7289969B"
+    }
+  ],
+  "name": "lateral/base/objetivos copy",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "843B9DE4-FDDC-447B-9803-23F3C3DE8125",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "256E436B-6343-4E0D-8532-9C16BF6735B8",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "26410088-E56E-4C97-B727-5AE54690FDEA",
+    "guides": [
+    ]
+  }
+}

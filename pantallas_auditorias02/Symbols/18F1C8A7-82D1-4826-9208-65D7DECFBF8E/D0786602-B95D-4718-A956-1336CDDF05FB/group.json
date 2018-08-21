@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "D0786602-B95D-4718-A956-1336CDDF05FB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EF798AD3-FBB8-4023-BC06-37D47625E5EC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DD1CB97F-9F19-4805-B5EA-5B8280D2FFF0",
+    "height": 331,
+    "width": 1135,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "0E9178E0-D2E4-4358-B1C3-4AF72C693B47"
+    },
+    {
+      "class": "group",
+      "id": "40709500-04A6-4DAB-B83E-345DBB22AA38"
+    }
+  ],
+  "name": "card/documento/estado/expandida",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CA9C4BED-C121-4F7F-B08F-CDB8EC89EF8C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

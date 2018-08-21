@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "E573F53D-C79D-493B-8932-A05510DB5F30",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "12A65E62-DEDC-47FD-A1AB-E6275D7AE095",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "17DDE93D-39EE-478E-9836-F8298E62BA26",
+    "height": 111,
+    "width": 1177,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "676E905E-54FE-447D-AE4F-BBCDE14CC085"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F9599F49-B443-4653-BC18-C4524B89A9BF"
+    }
+  ],
+  "name": "riesgo",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "81D066F0-E20E-4FCB-91D7-9188A306BC76",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

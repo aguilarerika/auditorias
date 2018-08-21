@@ -1,0 +1,54 @@
+{
+  "_class": "group",
+  "do_objectID": "5EE2DE8A-19DE-438B-857C-73E408EADDE5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BED72B96-2B70-4472-8B94-4EEF9DE4AE15",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "476227E5-E750-4257-A092-AE4A6DE9A801",
+    "height": 33,
+    "width": 299,
+    "x": 100,
+    "y": 252
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "6C1FC6D8-0A28-462E-9C76-CB477DBE9D62"
+    }
+  ],
+  "name": "ruta",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "259C5D1B-5A14-4870-8DDE-F059D1548C6F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

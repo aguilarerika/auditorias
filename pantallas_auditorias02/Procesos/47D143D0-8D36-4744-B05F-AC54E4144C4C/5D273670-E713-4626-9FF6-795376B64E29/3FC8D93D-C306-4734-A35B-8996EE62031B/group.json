@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "3FC8D93D-C306-4734-A35B-8996EE62031B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 128,
+    "width": 304,
+    "x": 2,
+    "y": 335
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FD53E883-E6F3-46D6-803C-80932C117D93"
+    },
+    {
+      "class": "text",
+      "id": "EB2D3992-25AA-4A37-811E-E2022F19868B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C9F16D76-3F26-4065-AFDB-D1F56A9E9422"
+    }
+  ],
+  "name": "guia_nueva",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

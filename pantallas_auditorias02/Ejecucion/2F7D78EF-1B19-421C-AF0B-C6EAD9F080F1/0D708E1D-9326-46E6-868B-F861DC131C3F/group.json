@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "0D708E1D-9326-46E6-868B-F861DC131C3F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "215B072E-CD64-4789-BD8C-828D46D9ACA8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DB64FAF4-3285-4127-AE8F-0CEBB4019583",
+    "height": 24,
+    "width": 166,
+    "x": 205,
+    "y": 212
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "92229721-2623-49AA-A5FF-A2CB8666C1F0"
+    },
+    {
+      "class": "text",
+      "id": "6567D9FD-DC8C-47B0-92D2-E6749E7AA04E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DB31BAA4-32CC-4562-9188-131A9F67DFAC"
+    }
+  ],
+  "name": "ruta",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "62D84DDE-D597-41F8-8A87-AEE706CBD46F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

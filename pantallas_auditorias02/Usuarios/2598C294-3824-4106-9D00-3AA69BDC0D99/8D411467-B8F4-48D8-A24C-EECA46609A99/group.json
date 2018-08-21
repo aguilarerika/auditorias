@@ -1,0 +1,115 @@
+{
+  "_class": "group",
+  "do_objectID": "8D411467-B8F4-48D8-A24C-EECA46609A99",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "99465686-52C3-4B97-92AE-81CE7162F6C4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5F6EAA89-6B20-4648-9893-C61099C40398",
+    "height": 32,
+    "width": 189,
+    "x": 100,
+    "y": 336
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C13B508F-259D-4547-9646-9F56D7EE5D43"
+    },
+    {
+      "class": "text",
+      "id": "87F81115-9C99-449F-8756-569589F97CA6"
+    }
+  ],
+  "name": "Group 4",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 0.2976675724637681,
+          "blue": 0.6588235294117646,
+          "green": 0.7490196078431373,
+          "red": 0.2941176470588235
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 2,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "9578861D-3CC6-4A0B-8034-D3A7B2D39AC6",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5647058823529412,
+          "green": 0.7529411764705882,
+          "red": 0.02745098039215689
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 6,
+        "color": {
+          "_class": "color",
+          "alpha": 0.42,
+          "blue": 0.5647058823529412,
+          "green": 0.7529411764705882,
+          "red": 0.02745098039215689
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "sharedObjectID": "8EF89EAB-900E-48CF-88AE-240A69820810",
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

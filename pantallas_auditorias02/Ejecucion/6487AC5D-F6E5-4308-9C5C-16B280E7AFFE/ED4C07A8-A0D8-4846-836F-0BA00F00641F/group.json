@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "do_objectID": "ED4C07A8-A0D8-4846-836F-0BA00F00641F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4DEB5EBE-FCE8-4D21-8FFC-7C2789C0BB9D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0544C590-66DC-498C-AC8D-EB6B3E3AC044",
+    "height": 128,
+    "width": 1440,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "EA4DAAE0-7ACE-44B8-BEEE-CE4867EC8134"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0A0158BC-19D9-4C60-B149-8CB84DC9F92B"
+    },
+    {
+      "class": "group",
+      "id": "0A687B57-162C-4096-9831-5958982ECBC1"
+    },
+    {
+      "class": "text",
+      "id": "B79EDCFC-5BCB-40BD-A9E5-5EA6D212A101"
+    }
+  ],
+  "name": "cabecera",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8535E7BE-8CBF-4467-8B42-F46C22102FA4",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

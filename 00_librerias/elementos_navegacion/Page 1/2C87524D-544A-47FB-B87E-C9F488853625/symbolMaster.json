@@ -1,0 +1,84 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "33826FB3-A870-44D9-8984-F5A80272BC8B",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 840,
+  "do_objectID": "2C87524D-544A-47FB-B87E-C9F488853625",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "03C0E243-E1D3-4C03-BFB8-D77D8181333A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5FA9294E-20EC-40C3-A20A-2C3D21705724",
+    "height": 624,
+    "width": 147,
+    "x": 394,
+    "y": 1441
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "609E3CEF-C74E-447C-BFF7-5A669C62A65F",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "3615613A-7270-4DBB-A84E-0A948A52F93F"
+    }
+  ],
+  "name": "lateral/base/riesgos copy",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BE7F8078-61AD-4E70-9B27-72C006D2CD14",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "35D5D3D6-AE7B-434A-AE42-F627D85A5C9B",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4FB2C14E-D46C-42CF-AF49-CA1D83630242",
+    "guides": [
+    ]
+  }
+}

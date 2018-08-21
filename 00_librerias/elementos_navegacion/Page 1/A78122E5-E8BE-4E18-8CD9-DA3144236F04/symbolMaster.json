@@ -1,0 +1,84 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "5F319E9D-315B-4816-B187-76D8F3BC73F5",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 563,
+  "do_objectID": "A78122E5-E8BE-4E18-8CD9-DA3144236F04",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E7C14909-D465-4992-9047-190391D2BD6D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "126B23DA-FDEB-4111-B45F-BAC9700BE83E",
+    "height": 624,
+    "width": 147,
+    "x": -690,
+    "y": 1441
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B411D678-AB0E-4350-8E1C-CFD9213A6C81",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E2E38FE1-A771-4C40-AFBB-3608F3056716"
+    }
+  ],
+  "name": "lateral/base/defecto copy",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9EDF0476-5CE1-4D39-96BF-8C50C136BBD8",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "CF4A1132-7CCD-4C05-ACA3-69D1245FAA20",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9C8CC2B3-B8B8-4676-BA96-CD5174FF34F5",
+    "guides": [
+    ]
+  }
+}

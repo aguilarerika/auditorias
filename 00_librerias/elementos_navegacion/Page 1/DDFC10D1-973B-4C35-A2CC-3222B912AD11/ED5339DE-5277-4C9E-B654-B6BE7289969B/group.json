@@ -1,0 +1,106 @@
+{
+  "_class": "group",
+  "do_objectID": "ED5339DE-5277-4C9E-B654-B6BE7289969B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F34CB95D-C4C8-487B-8A6C-76144E70D3E7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F3231DD6-BE00-40BF-B819-BF82E1589EA0",
+    "height": 588,
+    "width": 131,
+    "x": 9,
+    "y": 15
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "AFD0EA9B-FA29-4036-80CE-D2EE71EBB31B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ADFC2A57-578E-4893-8557-A7AE405A186B"
+    },
+    {
+      "class": "group",
+      "id": "CD7CC8E9-317C-4CA1-BD0C-C50538AF4697"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A75DE41F-7668-4E0C-B776-6499BEF4DA11"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9CFC4497-A7D9-473D-9C13-B0CD0A5277C7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5E08A0F2-880E-444C-8DEC-FB74F3EBF788"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DDAA5DD7-14BC-4E91-A101-8DF3867F0FDA"
+    },
+    {
+      "class": "text",
+      "id": "542FB2CB-3A8D-4F57-B7E0-FEFE22A0D00B"
+    },
+    {
+      "class": "text",
+      "id": "1EE07B60-ED71-433A-91B7-3DB5113431D3"
+    },
+    {
+      "class": "text",
+      "id": "85B5BA94-053A-431C-9D9A-7FC37F9D86C3"
+    },
+    {
+      "class": "text",
+      "id": "CBE129BC-1C65-4953-A3B4-445A03E76405"
+    },
+    {
+      "class": "text",
+      "id": "ECAB1E89-D4E5-46C0-B6A4-27DDFE99E18B"
+    },
+    {
+      "class": "text",
+      "id": "6574A118-8E9D-4122-BCD0-3CB11BC0562B"
+    },
+    {
+      "class": "text",
+      "id": "5D69D612-152C-4BBC-A02F-D94A7CEB038F"
+    }
+  ],
+  "name": "lateral",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FBF8D52F-7987-4FC9-BFE0-79A49669EB33",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

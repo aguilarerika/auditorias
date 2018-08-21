@@ -1,0 +1,84 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "DB019302-F0B6-47E3-A02E-2B511B1912E1",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 567,
+  "do_objectID": "F8B61F37-EF33-4CBF-A0A7-E45675695E38",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FCAD983A-19B6-418A-9162-47DAC97B607F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5B40ECD4-475B-48C5-A07D-8C8AC618227D",
+    "height": 624,
+    "width": 68,
+    "x": -230,
+    "y": 225
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0C6397D1-33EC-4660-B5EA-3286F34D0FC1",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E35ACE83-D9B3-4221-87F7-DAE964734969"
+    }
+  ],
+  "name": "lateral/base/requerimientos",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CEE655A3-679E-4720-A8D2-712120244F7F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "7AC93D76-924E-4C13-B074-F14D82072E11",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1A53574B-0631-4468-A605-3189DEEF2814",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "52A1DBB4-B134-460A-BC35-26F7631D02D6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "48FE511E-B929-42D2-8305-AA0FD4CA2DC7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "645B23EB-630F-4C11-8A91-C594F4F9A69C",
+    "height": 105,
+    "width": 1247,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "8DB6B40F-CF61-4483-9101-E011F4A871FC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6CDD300F-E483-4F49-822E-508D484A5821"
+    },
+    {
+      "class": "text",
+      "id": "F3DB4852-0EE5-4595-94AA-87C4D4A0BC3A"
+    }
+  ],
+  "name": "proceso1",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2044B740-D30E-4A1E-B66B-1B20568CCD07",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

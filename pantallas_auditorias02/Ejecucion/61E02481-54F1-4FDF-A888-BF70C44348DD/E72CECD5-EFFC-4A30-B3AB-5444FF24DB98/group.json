@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "do_objectID": "E72CECD5-EFFC-4A30-B3AB-5444FF24DB98",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BDB696A9-333E-47A1-8EBA-979E81612227",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "89DB950B-06BC-4F5F-8275-7D9171E96D3F",
+    "height": 418,
+    "width": 1247,
+    "x": 97,
+    "y": 302
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B315EC31-18A0-41FB-8F5D-0B0554BCAA2E"
+    },
+    {
+      "class": "group",
+      "id": "4CF8176F-B048-4C52-9964-78A80A30B772"
+    },
+    {
+      "class": "group",
+      "id": "52A1DBB4-B134-460A-BC35-26F7631D02D6"
+    },
+    {
+      "class": "group",
+      "id": "31B2AB4C-2442-4836-A90A-110369F596BA"
+    }
+  ],
+  "name": "procesos",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "42A9CDFA-3CD0-4353-9D53-014754A4EE4A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

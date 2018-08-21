@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "8B736B2E-AF7D-4887-BCFF-11710630566E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3672E14B-7230-4589-A196-A6AF0624686E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "684E6F2E-1BF4-46E4-A5C3-5E6CEAB45279",
+    "height": 36,
+    "width": 190,
+    "x": 110,
+    "y": 390
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "botón principal",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3558E85B-8CE4-4627-99D0-6028C48D5E69",
+      "overrideName": "5F5B31DF-FCBC-435A-8E05-9A9FA15E9B3D_stringValue",
+      "value": "¡Entendido!"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "484669E0-DF1C-4B32-B5CA-653B10F540C5",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "169B3222-0EF3-492E-91FF-92D23A8B0EC3",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

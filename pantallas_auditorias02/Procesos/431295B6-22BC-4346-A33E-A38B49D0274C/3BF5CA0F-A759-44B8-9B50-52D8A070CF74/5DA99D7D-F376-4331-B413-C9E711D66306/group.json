@@ -1,0 +1,99 @@
+{
+  "_class": "group",
+  "do_objectID": "5DA99D7D-F376-4331-B413-C9E711D66306",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "50E283A7-0023-4FEB-AD02-0BEDA16BCD59",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CC3F3835-AE3E-4EE1-AC38-0A0552B8A7E1",
+    "height": 46,
+    "width": 188,
+    "x": 100,
+    "y": 42
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D5AB1F03-7C31-4864-94DE-B2C212E282E4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "74248D51-AC3B-4E31-8F9F-B495C45B9B75"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FE3C174E-4220-496F-A36B-16A94B6EC73D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0E6905F3-728E-47DB-AE70-95E7AED7F129"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B398E567-2DFD-4879-8CDF-A866450A2915"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EAA3659A-C269-4C44-A642-53E934F7C869"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6B82846C-2757-4F87-AE9A-F3535C92910E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "483EA132-45EF-46BD-96B9-78F987A507EB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "923DD576-BAC3-46F0-BC86-976C700CE1A6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6D606234-FF30-4A13-B644-E6FE8B27695A"
+    }
+  ],
+  "name": "Group Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "FD2E62E2-3104-457A-B42B-4B4FF91B565A",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 4,
+      "type": 0
+    },
+    "do_objectID": "2FAF53E6-2A5F-4C14-9A66-F6339B6F9133",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
