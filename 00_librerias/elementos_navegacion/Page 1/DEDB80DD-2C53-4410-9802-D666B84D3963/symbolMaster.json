@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 787,
+  "changeIdentifier": 800,
   "do_objectID": "DEDB80DD-2C53-4410-9802-D666B84D3963",
   "exportOptions": {
     "_class": "exportOptions",
@@ -30,7 +30,7 @@
     "y": 1441
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -50,7 +50,11 @@
   "layers": [
     {
       "class": "group",
-      "id": "2FD16F22-304C-4079-A3E6-A5994B4B299E"
+      "id": "339705D7-AF34-4EA6-A35F-567710CA4FDF"
+    },
+    {
+      "class": "group",
+      "id": "EF6ACB1B-411C-4EA4-894F-4D17292FC103"
     }
   ],
   "name": "lateral/base/alcance copy",

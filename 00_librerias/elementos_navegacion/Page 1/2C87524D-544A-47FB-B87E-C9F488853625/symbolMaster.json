@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 840,
+  "changeIdentifier": 853,
   "do_objectID": "2C87524D-544A-47FB-B87E-C9F488853625",
   "exportOptions": {
     "_class": "exportOptions",
@@ -30,7 +30,7 @@
     "y": 1441
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -50,7 +50,11 @@
   "layers": [
     {
       "class": "group",
-      "id": "3615613A-7270-4DBB-A84E-0A948A52F93F"
+      "id": "8E04C20A-F206-44A3-AAE2-6292DAFA4833"
+    },
+    {
+      "class": "group",
+      "id": "692985D8-6FA2-4EBB-ADF5-1B997DC59925"
     }
   ],
   "name": "lateral/base/riesgos copy",

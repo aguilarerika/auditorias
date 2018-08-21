@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 809,
+  "changeIdentifier": 856,
   "do_objectID": "4C15E204-5F07-4C48-943B-F197BBC72312",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": -438
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -45,8 +45,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "50576C23-A3BA-4FE2-933C-4FF3BD8DF617"
+      "class": "symbolInstance",
+      "id": "83DD3344-6899-4D25-B9AB-52A38DF22111"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "176AC847-85B3-4C2D-9828-0F889818C06D"
     }
   ],
   "name": "lateral/defecto",
