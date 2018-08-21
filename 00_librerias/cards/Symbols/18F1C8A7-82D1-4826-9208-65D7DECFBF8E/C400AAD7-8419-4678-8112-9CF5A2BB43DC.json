@@ -1,9 +1,9 @@
 {
-  "_class": "group",
-  "do_objectID": "EF3B01E1-D3A3-4BC8-BC6A-1D5000436FA8",
+  "_class": "symbolInstance",
+  "do_objectID": "C400AAD7-8419-4678-8112-9CF5A2BB43DC",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "DF0E5E2E-940E-4095-A27C-1DB4AD30FD86",
+    "do_objectID": "1332AB41-0DB9-4A60-B3C6-DF8EDC96D21B",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,41 +14,40 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "1BBA28F1-8EF7-4E00-B631-E290ACF490BA",
+    "do_objectID": "F78B0A6E-952F-4482-844D-BB5CB3887039",
     "height": 24,
-    "width": 168,
-    "x": 98,
-    "y": 264
+    "width": 24,
+    "x": 1068,
+    "y": 266
   },
-  "hasClickThrough": false,
+  "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
-    {
-      "class": "text",
-      "id": "94C36043-1D2B-424B-9E4D-0CE7C8B43747"
-    }
+  "layerListExpandedType": 0,
+  "name": "icono/editar 1 copy",
+  "nameIsFixed": false,
+  "overrideValues": [
   ],
-  "name": "bot_agregar copy",
-  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "889D3F0B-0493-4A20-91FB-667F761E22F9",
+    "do_objectID": "72AE6120-0DD9-4041-9FBB-0372ED21A34E",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
   },
+  "symbolID": "590FEFDD-60A0-4BB2-AC1C-3BE2DC824C89",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
       }
     }
-  }
+  },
+  "verticalSpacing": 0
 }

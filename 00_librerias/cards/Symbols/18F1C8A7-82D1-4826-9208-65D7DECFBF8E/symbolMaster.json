@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1210,
+  "changeIdentifier": 1432,
   "do_objectID": "18F1C8A7-82D1-4826-9208-65D7DECFBF8E",
   "exportOptions": {
     "_class": "exportOptions",
@@ -32,9 +32,9 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
-      20,
-      1091,
-      1102
+      25,
+      1080,
+      1030
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -61,19 +61,27 @@
     },
     {
       "class": "group",
-      "id": "2DB7594D-2353-4E66-857F-7440DE03A39B"
-    },
-    {
-      "class": "group",
-      "id": "842FE8EB-5964-4339-AF01-19AC99CC1974"
-    },
-    {
-      "class": "group",
-      "id": "771630B5-8858-4FEC-8CA6-3EDD2CA77749"
-    },
-    {
-      "class": "group",
       "id": "EF3B01E1-D3A3-4BC8-BC6A-1D5000436FA8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FBB712ED-1A7A-485A-AE23-4C6FDEA5E045"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "681E5794-CE4B-4E9F-B6B3-32994D3E529B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "746A18C6-7712-4256-B8E6-86161D0E78C5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "16B6D5C3-DE62-4CF8-8DD7-D463074B99DD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C400AAD7-8419-4678-8112-9CF5A2BB43DC"
     }
   ],
   "name": "documento/estado/expandida",
@@ -95,7 +103,9 @@
     "base": 0,
     "guides": [
       34,
-      129
+      129,
+      278,
+      290
     ]
   }
 }
