@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 2152,
+  "changeIdentifier": 2258,
   "do_objectID": "17D1FDB8-4065-44B5-A23C-49F5DCF16BB0",
   "exportOptions": {
     "_class": "exportOptions",
@@ -30,7 +30,7 @@
     "y": 438
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -46,11 +46,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "DA5C5335-B43D-4920-B74B-B49274A1769D"
+      "class": "shapeGroup",
+      "id": "C952A188-E2D9-452E-AF59-D31BC55208B6"
     }
   ],
   "name": "icono/base",
