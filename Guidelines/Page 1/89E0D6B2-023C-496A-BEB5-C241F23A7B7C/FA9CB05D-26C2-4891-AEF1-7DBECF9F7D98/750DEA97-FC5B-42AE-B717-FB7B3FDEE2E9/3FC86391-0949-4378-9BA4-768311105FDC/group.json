@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "do_objectID": "3FC86391-0949-4378-9BA4-768311105FDC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4B5BD6AB-4175-4A30-AB9E-F4415CAE92AF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D9EE5178-10AC-4A47-A3B0-226D8D118668",
+    "height": 504,
+    "width": 399,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7561A514-2230-49FB-91E3-221F43898E53"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C558B0B2-530C-4671-AE67-B06AB0BD0B1D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4AC0E66B-443F-4781-ABB1-85EC5AC47473"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4BD69362-DAEF-436C-B214-890C93CA7AFD"
+    }
+  ],
+  "name": "Grid 1200",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "8BC4985B-F8BF-4D30-A0B0-22E1CDA14825",
+      "opacity": 0.4934701492537313
+    },
+    "do_objectID": "C48D8717-D7D4-45B4-82DC-E85D84C46660",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

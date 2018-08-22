@@ -1,0 +1,183 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9254901960784314,
+    "do_objectID": "07FDBC27-C49C-47CC-A1EE-882C272CCDBA",
+    "green": 0.9254901960784314,
+    "red": 0.9254901960784314
+  },
+  "do_objectID": "5217706E-F454-471A-BF9B-2BA25942B2B6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "21870314-056D-43D0-834C-415136145E3F",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "pdf",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "44CCE577-956B-4C6F-BD91-1115C43D6B90",
+    "height": 1984,
+    "width": 1440,
+    "x": 3137,
+    "y": -1909
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -844,
+    "do_objectID": "F6A0AFA8-9244-42A4-9E29-8D4F0A96BC22",
+    "guides": [
+      1043,
+      1566,
+      1978,
+      965,
+      2164,
+      1502,
+      1684
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A29D7706-74EA-4D37-8A47-CE3AAC65286F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6B66A63D-6D0A-4FA8-A1E7-3D9256DEE723"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "58994E5D-DAC8-4C0E-BF41-8C043EB4576B"
+    },
+    {
+      "class": "text",
+      "id": "B1895427-02F5-46A6-AFB2-5501DDA2B308"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A06C769F-F752-43E6-BA2E-8E58DDEA6D11"
+    },
+    {
+      "class": "text",
+      "id": "81E12634-100A-4F38-ABFC-4544D77E0515"
+    },
+    {
+      "class": "text",
+      "id": "AAFE21DE-9A57-47CB-AEC8-237AEF12AE77"
+    },
+    {
+      "class": "group",
+      "id": "448C7189-4A2C-4F03-91BB-CCA400589DB4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FB60306C-9123-4D61-9D47-B88606076330"
+    },
+    {
+      "class": "text",
+      "id": "59BA6454-89B0-4AAE-A337-5D2B6A20797D"
+    },
+    {
+      "class": "group",
+      "id": "CD2DEE6E-0F1F-41EE-93D5-8F9BCBB322D9"
+    },
+    {
+      "class": "group",
+      "id": "F1D19FE1-29C7-4DDB-B6C8-CC9967D83C44"
+    },
+    {
+      "class": "group",
+      "id": "589E3586-6E75-427A-889E-3EBEE063C2BC"
+    }
+  ],
+  "name": "Componentes_especiales",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "1B63305B-0453-48EC-B324-E3A29F507B04",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "FD375507-E987-431B-BC76-1127FC921A6A",
+    "guides": [
+      1817,
+      1792,
+      2587,
+      3108
+    ]
+  }
+}
