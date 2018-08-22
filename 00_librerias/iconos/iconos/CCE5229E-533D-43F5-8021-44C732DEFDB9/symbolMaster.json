@@ -1,0 +1,82 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "17B5D6E9-218A-45E6-8E19-524A9488FF38",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 2099,
+  "do_objectID": "CCE5229E-533D-43F5-8021-44C732DEFDB9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "123E58F1-354F-4A0A-B1D5-CD4357CD2F63",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7A9A172C-818D-4173-9BF1-53436190F6D1",
+    "height": 24,
+    "width": 24,
+    "x": 612,
+    "y": 378
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "17DB1AF9-659E-4818-8454-786829C09E73",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0B7F6FFD-6F23-4915-9F8A-11D38A15E705"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C24A1290-6C3F-4075-A38F-1C479D7186EB"
+    }
+  ],
+  "name": "icono/tres_puntos",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "77CE069D-53B9-4566-9366-085CF903EE41",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "0C900021-230A-4AC5-B3EC-6098940CA5D5",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "DD4CCFD5-424E-4030-9ADF-BA35435C4D51",
+    "guides": [
+    ]
+  }
+}
