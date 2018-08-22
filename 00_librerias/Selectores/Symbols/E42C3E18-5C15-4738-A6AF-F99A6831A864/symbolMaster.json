@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 5,
+  "changeIdentifier": 6,
   "do_objectID": "E42C3E18-5C15-4738-A6AF-F99A6831A864",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -49,7 +49,7 @@
       "id": "5708E5F3-AA5D-48ED-AFF8-348B463A8C7B"
     }
   ],
-  "name": "selector/peque/estado/defecto",
+  "name": "dropdown/peque/estado/defecto",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

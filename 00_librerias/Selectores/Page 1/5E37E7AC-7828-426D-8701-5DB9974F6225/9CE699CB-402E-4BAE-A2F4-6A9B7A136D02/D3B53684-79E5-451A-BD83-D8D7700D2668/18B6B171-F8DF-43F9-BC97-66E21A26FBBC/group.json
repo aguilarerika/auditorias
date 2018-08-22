@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "18B6B171-F8DF-43F9-BC97-66E21A26FBBC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 604,
+    "width": 313,
+    "x": 403,
+    "y": 520
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "text",
+      "id": "1A489F57-F555-4791-8EA1-80E2ABA49FD2"
+    },
+    {
+      "class": "group",
+      "id": "681F1789-D286-426B-A7B7-110272C2863F"
+    },
+    {
+      "class": "group",
+      "id": "0019608D-74B5-4430-9EE3-4B1B3BC755B0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EE9823A7-25EC-42D9-85A3-81D2C488A240"
+    },
+    {
+      "class": "text",
+      "id": "B35EC6DE-EC77-4B55-8B85-B1C41F2D66AA"
+    }
+  ],
+  "name": "desplegado_peque",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

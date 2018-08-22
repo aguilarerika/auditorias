@@ -32,13 +32,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "475BAA2B-A900-473B-B364-161E53C4D9F0",
-    "height": 2263,
+    "height": 3524,
     "width": 1440,
     "x": -2042,
     "y": -1909
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": -844,
@@ -91,48 +91,48 @@
       "id": "95FB5B62-8BC8-4E1E-94A7-1C6452220A49"
     },
     {
+      "class": "group",
+      "id": "BFC14987-D04F-47AD-A109-1BDC28AD722C"
+    },
+    {
       "class": "symbolInstance",
       "id": "15EA76C3-DC31-4855-8B81-FB0BF9024456"
     },
     {
       "class": "group",
-      "id": "84E36C7C-5FC3-4203-A48E-93DD392DEAE1"
+      "id": "B4D69975-5187-4CD9-BBB8-D09944C8D7A7"
     },
     {
-      "class": "group",
-      "id": "5E6B26CD-C872-4995-A6F6-8EE4245390DE"
+      "class": "symbolInstance",
+      "id": "FBD4105E-4E6D-47A4-B47F-EC24BDA15FE5"
     },
     {
-      "class": "group",
-      "id": "482EF585-150E-4FEB-A156-51D28C89D05C"
+      "class": "symbolInstance",
+      "id": "D9D320A1-23A8-4DBE-968E-273117D72BC7"
     },
     {
-      "class": "group",
-      "id": "CF12F97A-8F95-4A6A-BDBD-08108D3E106C"
+      "class": "symbolInstance",
+      "id": "0CD6A1E9-E979-46F8-9423-3219992A6048"
     },
     {
-      "class": "group",
-      "id": "C38D465C-02B1-4561-A7F6-F46BE66313F3"
+      "class": "symbolInstance",
+      "id": "AD20A319-F7C9-4C9F-B0AD-D4FBAAB28940"
     },
     {
-      "class": "group",
-      "id": "E8EBC041-67AF-4242-BB8B-4429029DC7FD"
+      "class": "symbolInstance",
+      "id": "62AFDEC5-B212-4F3D-B037-45EC6507EA52"
     },
     {
-      "class": "group",
-      "id": "DD6F567D-103F-4581-9A3E-5692766E8531"
+      "class": "symbolInstance",
+      "id": "0E32C664-9714-4512-877B-2914C8520446"
     },
     {
-      "class": "group",
-      "id": "5BD2F4A0-CCA5-43E0-B562-97D40544632D"
+      "class": "symbolInstance",
+      "id": "9F4D3090-B190-4042-945C-D5066E24CB88"
     },
     {
-      "class": "group",
-      "id": "7CA98210-CA78-46AC-B076-4A5D83D97011"
-    },
-    {
-      "class": "group",
-      "id": "4895F3BD-C7D7-4F1D-B79A-5FCF85F32F64"
+      "class": "symbolInstance",
+      "id": "DA783D6B-E115-4B59-8213-8D4C66561A40"
     }
   ],
   "name": "Selectores",

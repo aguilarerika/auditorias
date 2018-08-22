@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 5,
+  "changeIdentifier": 6,
   "do_objectID": "FD7811DD-3C6E-48F6-8D93-10D7F0EDD715",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 340
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -49,7 +49,7 @@
       "id": "3488684B-5C57-47B2-836D-B995BEE4B41D"
     }
   ],
-  "name": "selector/grande/estado/hover",
+  "name": "dropdown/grande/estado/hover",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

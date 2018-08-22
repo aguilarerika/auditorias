@@ -26,7 +26,7 @@
     "height": 1798,
     "width": 1440,
     "x": 4621,
-    "y": 3485
+    "y": 5596
   },
   "grid": {
     "_class": "simpleGrid",
@@ -36,7 +36,7 @@
     "thickGridTimes": 0
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -89,14 +89,6 @@
     },
     {
       "class": "group",
-      "id": "AE169AEF-C2CE-4A7B-A074-70B66FDC1278"
-    },
-    {
-      "class": "group",
-      "id": "48A1B6D6-C1E2-47F6-8F6D-CD85EE731701"
-    },
-    {
-      "class": "group",
       "id": "199F3FBB-FA14-4019-943A-32A67295C71C"
     },
     {
@@ -134,6 +126,14 @@
     {
       "class": "symbolInstance",
       "id": "B012BEC7-4D72-46A2-90BF-DB68BACABBBA"
+    },
+    {
+      "class": "group",
+      "id": "79FABC60-13FA-4F38-BB5B-5A60E13624BF"
+    },
+    {
+      "class": "group",
+      "id": "206CA820-7FB6-4A63-BEC0-3239AA6924AF"
     }
   ],
   "layout": {

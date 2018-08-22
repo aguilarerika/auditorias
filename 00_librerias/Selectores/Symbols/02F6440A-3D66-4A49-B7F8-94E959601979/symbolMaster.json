@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 5,
+  "changeIdentifier": 6,
   "do_objectID": "02F6440A-3D66-4A49-B7F8-94E959601979",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 136
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -49,7 +49,7 @@
       "id": "B9E76792-8F4F-4052-B4AB-B9B4B87ACD24"
     }
   ],
-  "name": "selector/grande/estado/desplegado",
+  "name": "dropdown/grande/estado/desplegado",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
