@@ -1,8 +1,9 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "9FDBEDE8-1CE9-4035-8C68-FA5FBCE36176",
+  "do_objectID": "EF4CC157-5452-41F3-86D9-C2071CE7C218",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "CFDC96F7-5708-41AC-B652-3FBA824DD0D1",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -13,10 +14,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 67,
-    "width": 1135,
-    "x": 205,
-    "y": 319
+    "do_objectID": "42DE10FA-EBB6-4D6D-BD27-6BA4D376AC97",
+    "height": 24,
+    "width": 24,
+    "x": 1078,
+    "y": 22
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -24,7 +26,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "documento/estado/hover 1",
+  "name": "icono/ver_mas 1",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -35,11 +37,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "A24DE452-9A0F-4176-882C-F6F60DC7984A",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "5AD022BC-6A25-4915-9320-8430C2F76A42",
+  "symbolID": "A6C73B55-290C-42D6-A233-EE67542CBC1E",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

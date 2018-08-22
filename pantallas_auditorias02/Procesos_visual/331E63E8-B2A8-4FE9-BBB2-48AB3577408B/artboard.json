@@ -86,10 +86,6 @@
       "id": "9FDBEDE8-1CE9-4035-8C68-FA5FBCE36176"
     },
     {
-      "class": "group",
-      "id": "86FC06A8-207D-4ACE-8F41-4965853A7013"
-    },
-    {
       "class": "symbolInstance",
       "id": "64465F06-A112-44A3-8BFA-A2AA0D8C1615"
     },
@@ -129,7 +125,7 @@
     "gutterWidth": 21.09090909090909,
     "guttersOutside": false,
     "horizontalOffset": 100,
-    "isEnabled": true,
+    "isEnabled": false,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
     "totalWidth": 1240

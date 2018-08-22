@@ -1,8 +1,9 @@
 {
-  "_class": "symbolInstance",
-  "do_objectID": "9FDBEDE8-1CE9-4035-8C68-FA5FBCE36176",
+  "_class": "group",
+  "do_objectID": "7619E030-7065-4DF5-8294-B8606ACD16E9",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "C9CBB6D3-9057-42D8-BE50-79BB135AE18F",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -13,38 +14,41 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 67,
-    "width": 1135,
-    "x": 205,
-    "y": 319
+    "do_objectID": "88C53B82-EE50-456D-8B66-07CD2C0FE1CA",
+    "height": 24,
+    "width": 168,
+    "x": 98,
+    "y": 264
   },
-  "horizontalSpacing": 0,
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "documento/estado/hover 1",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "AAD8E800-89FB-42A2-A880-D48594837025"
+    }
   ],
+  "name": "bot_agregar copy",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "F53F2F43-E5AE-4175-8C68-AD87680A8440",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "5AD022BC-6A25-4915-9320-8430C2F76A42",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
       }
     }
-  },
-  "verticalSpacing": 0
+  }
 }

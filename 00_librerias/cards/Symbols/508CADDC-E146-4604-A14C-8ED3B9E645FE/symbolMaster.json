@@ -4,13 +4,15 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
+    "do_objectID": "E9291B4F-4FA9-4742-A48E-BF37BA7618BB",
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1504,
-  "do_objectID": "18F1C8A7-82D1-4826-9208-65D7DECFBF8E",
+  "changeIdentifier": 1588,
+  "do_objectID": "508CADDC-E146-4604-A14C-8ED3B9E645FE",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "2C4A47AD-3681-462B-867C-CDE6E8D5E1F7",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -21,16 +23,18 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "491E29FA-F058-4BFF-BE2A-D45BC5C11574",
     "height": 331,
     "width": 1135,
     "x": 100,
-    "y": 517
+    "y": 941
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "C7354A02-0897-4A6B-857C-8637CC26614D",
     "guides": [
       25,
       1080,
@@ -49,42 +53,46 @@
   "layers": [
     {
       "class": "group",
-      "id": "D0786602-B95D-4718-A956-1336CDDF05FB"
+      "id": "8B43654A-D41E-4870-8021-03DBD979438C"
     },
     {
       "class": "text",
-      "id": "EBC5037F-2C9C-48F7-9889-AA424ACD9E2C"
+      "id": "30E7AA14-2164-4170-AA7C-78C21C4CC29A"
     },
     {
       "class": "text",
-      "id": "220378EB-7FD8-48E9-99FA-C7EE8C7B98EA"
+      "id": "B964E83B-D360-4C70-8662-237ED6881021"
     },
     {
       "class": "group",
-      "id": "EF3B01E1-D3A3-4BC8-BC6A-1D5000436FA8"
+      "id": "7619E030-7065-4DF5-8294-B8606ACD16E9"
     },
     {
       "class": "symbolInstance",
-      "id": "FBB712ED-1A7A-485A-AE23-4C6FDEA5E045"
+      "id": "1B126C25-4D2F-4A6D-84C3-9026F4160347"
     },
     {
       "class": "symbolInstance",
-      "id": "681E5794-CE4B-4E9F-B6B3-32994D3E529B"
+      "id": "6E0315BB-7BCB-4F81-BE60-A40C57263373"
     },
     {
       "class": "symbolInstance",
-      "id": "746A18C6-7712-4256-B8E6-86161D0E78C5"
+      "id": "CCA259EB-E024-400A-AB13-20E1C096CE22"
     },
     {
       "class": "symbolInstance",
-      "id": "16B6D5C3-DE62-4CF8-8DD7-D463074B99DD"
+      "id": "AB103640-B540-41E8-8F72-0411A48BF391"
     },
     {
       "class": "symbolInstance",
-      "id": "C400AAD7-8419-4678-8112-9CF5A2BB43DC"
+      "id": "4116636E-E048-4919-952B-7BB9FAAEBD60"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B691ADC6-5719-41F6-AE05-CFC522E97B2C"
     }
   ],
-  "name": "documento/estado/expandida",
+  "name": "documento/estado/expandida2",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -93,14 +101,16 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "do_objectID": "2ED13AC8-94A2-443A-832C-EC9F1327BC59",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "13403F07-75B2-4623-A116-C30D4A99D8CC",
+  "symbolID": "C07EA324-3840-4C25-8402-171676C52002",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "CE548622-C269-4125-AFFE-53465AD4417D",
     "guides": [
       34,
       129,
