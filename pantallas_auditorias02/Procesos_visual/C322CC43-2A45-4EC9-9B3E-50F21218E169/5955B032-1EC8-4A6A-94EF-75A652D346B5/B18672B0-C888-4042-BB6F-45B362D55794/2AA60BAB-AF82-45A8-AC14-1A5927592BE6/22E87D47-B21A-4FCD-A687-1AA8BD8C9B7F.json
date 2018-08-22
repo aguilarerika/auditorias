@@ -29,14 +29,14 @@
         "location": 0
       }
     ],
-    "string": "5 "
+    "string": "4 "
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "do_objectID": "21AC9D2C-5CE2-4ED7-935E-9B909B807664",
+  "do_objectID": "22E87D47-B21A-4FCD-A687-1AA8BD8C9B7F",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "95DAE3C8-464A-477F-BD97-7C21980F0113",
+    "do_objectID": "6E8E142B-5D20-4D17-BD80-66E88D619C6F",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -47,20 +47,20 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "5CD48ADC-1951-4681-AC41-9D68776CDE00",
+    "do_objectID": "E984BFE4-2FA4-4B8D-AB3B-CB87E6608211",
     "height": 22,
-    "width": 14,
-    "x": 225,
-    "y": 64
+    "width": 13,
+    "x": 0,
+    "y": 0
   },
-  "glyphBounds": "{{1, 5}, {8, 13}}",
+  "glyphBounds": "{{0, 5}, {9, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "5",
+  "name": "4",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -68,7 +68,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "BE51935D-27E9-4C14-A3E1-1C6E2DF9AD3B",
+    "do_objectID": "9EF8C7A1-8758-42F2-80D1-D2ED40D095B4",
     "endDecorationType": 0,
     "miterLimit": 10,
     "sharedObjectID": "414C1691-C5E2-4406-AB49-178081850497",
@@ -98,11 +98,11 @@
       "verticalAlignment": 0
     }
   },
-  "textBehaviour": 0,
+  "textBehaviour": 1,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "isAutoWidth": 1
+        "isAutoWidth": 0
       }
     }
   }

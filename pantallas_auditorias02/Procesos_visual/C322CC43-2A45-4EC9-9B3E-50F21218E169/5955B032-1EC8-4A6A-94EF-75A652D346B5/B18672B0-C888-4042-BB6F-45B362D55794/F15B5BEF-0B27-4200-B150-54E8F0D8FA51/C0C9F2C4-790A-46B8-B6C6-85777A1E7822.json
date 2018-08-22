@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSans-Regular",
-              "size": 18
+              "size": 16
             }
           },
           "paragraphStyle": {
@@ -29,14 +29,14 @@
         "location": 0
       }
     ],
-    "string": "3 "
+    "string": "9 "
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "do_objectID": "7CB986BC-BAD0-437D-9821-37052EF5CF00",
+  "do_objectID": "C0C9F2C4-790A-46B8-B6C6-85777A1E7822",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "EC3C0F31-7039-4517-BC85-EB1A017E6A28",
+    "do_objectID": "ACC5A63C-ECCD-44CE-B6C4-536F62003E59",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -47,20 +47,20 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "127DCEF6-96A0-4033-B1F4-4B0D5F0438A2",
-    "height": 24,
+    "do_objectID": "3BF6CC5A-A880-457D-987C-9940B09F4BF0",
+    "height": 22,
     "width": 13,
-    "x": 334,
-    "y": 127
+    "x": 0,
+    "y": 334
   },
-  "glyphBounds": "{{0, 5}, {10, 15}}",
+  "glyphBounds": "{{0, 5}, {9, 13}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "3",
+  "name": "9",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -68,13 +68,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "C83E0C85-7B75-4409-93C9-58B9C5A9823F",
+    "do_objectID": "D0D8C1AD-305F-407B-AA9E-BCFE3E2E7454",
     "endDecorationType": 0,
     "miterLimit": 10,
+    "sharedObjectID": "414C1691-C5E2-4406-AB49-178081850497",
     "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "F728F8E8-7A5F-43CE-98FC-69B56795FF1F",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -87,7 +87,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "OpenSans-Regular",
-            "size": 18
+            "size": 16
           }
         },
         "paragraphStyle": {
