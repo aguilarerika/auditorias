@@ -38,7 +38,7 @@
     "y": -1909
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": -844,
@@ -53,7 +53,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -85,111 +85,23 @@
     },
     {
       "class": "group",
-      "id": "B3405E5F-AC2A-4AF9-B46E-62B69D0D3AC9"
+      "id": "69150DF0-3047-4EBF-BA79-64C47C256B10"
     },
     {
       "class": "group",
-      "id": "F1C3C202-6518-4C77-8CB4-1103B94DB3E3"
+      "id": "8DD081E5-73EC-4124-BB3B-1EED3A14E858"
     },
     {
       "class": "group",
-      "id": "829C7D0F-8D8A-4C68-A0D5-44610BA8C440"
+      "id": "BC015E9D-BF00-4EB1-8F49-CEA389DBCD9B"
     },
     {
       "class": "group",
-      "id": "3CB99257-B5FF-4F4E-BE1C-613032F31744"
-    },
-    {
-      "class": "text",
-      "id": "2400580C-1F0D-4241-BCCF-39FA1F9874CB"
-    },
-    {
-      "class": "group",
-      "id": "4D1B84EA-0361-420E-87F8-1958E37A54E5"
-    },
-    {
-      "class": "group",
-      "id": "4C67C912-0207-4202-8289-520DB41A51E4"
-    },
-    {
-      "class": "group",
-      "id": "1DC6DFBD-645A-406F-B5CA-ED7CDD305339"
-    },
-    {
-      "class": "group",
-      "id": "EBDC2897-D3CC-46F2-810F-F4D37CB347D0"
-    },
-    {
-      "class": "group",
-      "id": "F4B772F5-B2F2-45FC-9DCF-9DDDEBDE35E4"
-    },
-    {
-      "class": "text",
-      "id": "D61DFAD7-C47A-4FD7-A8DB-3ABB1FC6D7AC"
-    },
-    {
-      "class": "text",
-      "id": "B5D8D081-9897-4874-B942-29830F4D847F"
-    },
-    {
-      "class": "text",
-      "id": "A3A11F9B-D4BD-42EF-9D03-9FFBC563F240"
-    },
-    {
-      "class": "text",
-      "id": "D8B49ED1-8EC0-4006-BD93-1DD9C69CA189"
-    },
-    {
-      "class": "text",
-      "id": "E4CAD77E-E883-4D35-87B3-A1624BD5AF13"
-    },
-    {
-      "class": "text",
-      "id": "F4F16DF6-BE33-406B-87AC-A9EDF3A1C171"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "97ABA5B3-99BA-483C-9770-685260562F61"
-    },
-    {
-      "class": "text",
-      "id": "01A6C72A-74A4-49D0-BA90-D52A212051FA"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "ABCD518E-5427-4482-A5C6-AA89A227141E"
-    },
-    {
-      "class": "text",
-      "id": "A697793C-1066-45DE-8054-816D98F6264F"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "D1022327-4888-45D9-A4B7-5AA36B51B551"
-    },
-    {
-      "class": "text",
-      "id": "48276BC0-6ABF-4AD8-9D4D-2E7A4AE91E41"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "60D9E5A6-37E5-47AD-809B-8DDB9AFC62C4"
-    },
-    {
-      "class": "text",
-      "id": "7BC9A8BC-A332-43F1-907E-F7AF909D90CD"
-    },
-    {
-      "class": "text",
-      "id": "BA66A34E-7024-4087-B66D-376BA658E032"
+      "id": "AD58B632-1B92-4CF3-8CA9-216CF4170C4F"
     },
     {
       "class": "symbolInstance",
       "id": "F8211949-BEB8-4CB8-8F12-1901D837654C"
-    },
-    {
-      "class": "group",
-      "id": "B88DDA17-1FFF-491E-8A31-E4BA922299AB"
     }
   ],
   "name": "UIKIT_Paleta de color Copy",
