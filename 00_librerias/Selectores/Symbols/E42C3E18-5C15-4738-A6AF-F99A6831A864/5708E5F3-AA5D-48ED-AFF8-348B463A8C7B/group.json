@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "5708E5F3-AA5D-48ED-AFF8-348B463A8C7B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "71478C89-04B6-4011-AFF7-C0EF2A6847FA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1DF70F45-3A03-4C0E-B662-B7F7C9835ECF",
+    "height": 36,
+    "width": 84,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "737C5458-1829-4632-BC86-D7DA01390C6B"
+    },
+    {
+      "class": "text",
+      "id": "C7AEB0CD-DF84-416D-B836-54E4CE14A08D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0A72AF9E-0724-4EA8-8A54-A0D46DC216FF"
+    }
+  ],
+  "name": "selector/peque",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A14B17DD-8C47-4B94-BF1E-A9067DD4D69D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

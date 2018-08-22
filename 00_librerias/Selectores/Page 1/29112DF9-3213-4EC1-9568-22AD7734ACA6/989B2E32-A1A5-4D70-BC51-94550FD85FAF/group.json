@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "do_objectID": "989B2E32-A1A5-4D70-BC51-94550FD85FAF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A1E31DE7-339C-40C1-93EB-046F345093F6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F0E5ACCB-72E8-484F-AE6F-8B899E2B0A61",
+    "height": 280,
+    "width": 323,
+    "x": 402,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "EAC182EC-29CC-42CA-B87D-A4F443E37376"
+    },
+    {
+      "class": "group",
+      "id": "C906CA63-8B6E-436C-8F28-9C1340E06DDB"
+    },
+    {
+      "class": "text",
+      "id": "EF22FE4A-8530-4489-95E2-3AF1BEB24C75"
+    },
+    {
+      "class": "group",
+      "id": "2160D259-5D48-41D3-B015-A7C58E841D36"
+    }
+  ],
+  "name": "desplegado",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2E568D2B-35A4-4C91-9DD5-32E4299C865C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
