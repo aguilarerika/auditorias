@@ -8,39 +8,39 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 1,
-            "blue": 0.6,
-            "green": 0.6,
-            "red": 0.6
+            "alpha": 0.87,
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "OpenSans-Semibold",
-              "size": 14
+              "name": "OpenSans",
+              "size": 7.110000133514404
             }
           },
           "kerning": 0,
+          "ligature": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 30,
-            "minimumLineHeight": 30
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24
           }
         },
-        "length": 43,
+        "length": 8,
         "location": 0
       }
     ],
-    "string": "Powder gingerbread gummi bears lemon drops "
+    "string": "Footnote"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "do_objectID": "B5C58D1B-42B3-4827-A42D-834DD87AC7EA",
+  "do_objectID": "6D5B35DA-8700-4581-8AFC-997C1492F9E9",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "06520B85-C7A2-47E7-8E55-68499243D883",
+    "do_objectID": "F8F095A8-947A-4412-9B15-875E228265DA",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -51,20 +51,20 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "7AEE5DB6-33CA-454F-8AD8-12A609F7CD13",
-    "height": 30,
-    "width": 323,
-    "x": 613,
-    "y": 1114
+    "do_objectID": "37D3D0A8-2CF3-4C33-BA2D-BC2B02BC36A1",
+    "height": 24,
+    "width": 30,
+    "x": 175,
+    "y": 1218
   },
-  "glyphBounds": "{{0, 0}, {318, 30}}",
+  "glyphBounds": "{{0, 2}, {30, 7}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 2,
-  "name": "Powder gingerbread g",
+  "lineSpacingBehaviour": 1,
+  "name": "Footnote",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -72,35 +72,35 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "C4285722-CDA6-42C8-910C-EE55F384240C",
+    "do_objectID": "1036C5EB-6057-4D17-9C8D-54FE9AFBC8D0",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "27C4AA35-8B52-48DF-A393-EC9C9ECB3956",
+      "do_objectID": "16DF9068-94E7-43F6-8008-A01C94E6D3D5",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 1,
-          "blue": 0.6,
-          "green": 0.6,
-          "red": 0.6
+          "alpha": 0.87,
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "OpenSans-Semibold",
-            "size": 14
+            "name": "OpenSans",
+            "size": 7.110000133514404
           }
         },
         "kerning": 0,
+        "ligature": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 30,
-          "minimumLineHeight": 30
+          "maximumLineHeight": 24,
+          "minimumLineHeight": 24
         }
       },
       "verticalAlignment": 0

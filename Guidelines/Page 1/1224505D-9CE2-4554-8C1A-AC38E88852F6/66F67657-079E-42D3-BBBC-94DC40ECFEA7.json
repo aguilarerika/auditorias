@@ -8,39 +8,39 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 1,
-            "blue": 0.6,
-            "green": 0.6,
-            "red": 0.6
+            "alpha": 0.87,
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSans-Semibold",
-              "size": 20
+              "size": 16
             }
           },
           "kerning": 0,
+          "ligature": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 30,
-            "minimumLineHeight": 30
+            "maximumLineHeight": 28,
+            "minimumLineHeight": 28
           }
         },
-        "length": 43,
+        "length": 20,
         "location": 0
       }
     ],
-    "string": "Powder gingerbread gummi bears lemon drops "
+    "string": "Semibold 16px - 1 em"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "do_objectID": "91C4E13F-53C6-4119-B4C6-26D3BB9F1AD3",
+  "do_objectID": "66F67657-079E-42D3-BBBC-94DC40ECFEA7",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "88F608AB-4A98-4B61-83E0-32E02B58B32A",
+    "do_objectID": "F1FE4026-0BD5-40C7-AE08-45552CE76238",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -51,20 +51,20 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "EEF16187-4518-42AC-97AF-EF8C5DC44E72",
-    "height": 30,
-    "width": 461,
-    "x": 613,
-    "y": 951
+    "do_objectID": "3A4A16F1-A489-4274-A86E-150857E25150",
+    "height": 28,
+    "width": 165,
+    "x": 313,
+    "y": 1141
   },
-  "glyphBounds": "{{0, 0}, {455, 30}}",
+  "glyphBounds": "{{0, 4}, {164, 17}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 2,
-  "name": "Powder gingerbread g",
+  "lineSpacingBehaviour": 1,
+  "name": "Semibold 16px - 1 em",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -72,35 +72,35 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "1F452223-6A68-4C76-AC63-0094256D6D4A",
+    "do_objectID": "63C315B5-680A-4BD0-B5A2-80FAC7D1F8B1",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "D6EE999C-686B-4C6D-818B-380ABD22CFB9",
+      "do_objectID": "FA60AFC0-8E3B-442E-925E-3A7F0A4E1961",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 1,
-          "blue": 0.6,
-          "green": 0.6,
-          "red": 0.6
+          "alpha": 0.87,
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "OpenSans-Semibold",
-            "size": 20
+            "size": 16
           }
         },
         "kerning": 0,
+        "ligature": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 30,
-          "minimumLineHeight": 30
+          "maximumLineHeight": 28,
+          "minimumLineHeight": 28
         }
       },
       "verticalAlignment": 0
