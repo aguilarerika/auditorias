@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 169,
+  "changeIdentifier": 183,
   "do_objectID": "34868085-417B-42B3-A5F9-E7BFE3E86ECE",
   "exportOptions": {
     "_class": "exportOptions",
@@ -30,7 +30,7 @@
     "y": 108
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -51,6 +51,10 @@
     {
       "class": "group",
       "id": "7DA97491-7002-41D5-BBD5-5D4E32F97F22"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A104B218-1CE2-48C4-B38A-F60930BA6BF3"
     }
   ],
   "name": "nuevo/estado/seleccionado",

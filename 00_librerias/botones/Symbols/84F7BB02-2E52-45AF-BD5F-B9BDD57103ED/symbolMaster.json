@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 132,
+  "changeIdentifier": 147,
   "do_objectID": "84F7BB02-2E52-45AF-BD5F-B9BDD57103ED",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -47,6 +47,10 @@
     {
       "class": "group",
       "id": "A2ED534D-E5B7-4316-8FDF-A53FE26F6BC3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FA9B5E71-F568-44D5-A474-CEB4ED075A97"
     }
   ],
   "name": "nuevo/estado/defecto",
