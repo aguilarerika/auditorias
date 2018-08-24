@@ -1,10 +1,10 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "A06C769F-F752-43E6-BA2E-8E58DDEA6D11",
+  "do_objectID": "EDD31A3F-7606-4A91-B3EB-19888A4D4125",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "0D36BD2C-BA85-47EB-AE56-2119EACC0FC1",
+    "do_objectID": "79DA3597-0D5B-47D5-9235-1FB008E178C3",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,11 +15,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "41012EB0-063D-4875-B5C6-56DDBA1B3DCE",
-    "height": 2589,
-    "width": 1371,
-    "x": 35,
-    "y": 286
+    "do_objectID": "3EA6BA21-67CA-4857-92B1-4741D87E5E73",
+    "height": 34,
+    "width": 3,
+    "x": 58,
+    "y": 3
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -30,11 +30,11 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "95EAA4AF-BFCC-4EB8-A34A-E1106AC3D8BC"
+      "class": "shapePath",
+      "id": "8179BF00-117E-4506-97DB-F20B919DA316"
     }
   ],
-  "name": "Rectangle 6",
+  "name": "Line 2",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -42,23 +42,32 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "F94D1322-9CD1-47F5-830D-CEE431279128",
+      "isEnabled": false,
+      "lineCapStyle": 2,
+      "lineJoinStyle": 0
+    },
     "borders": [
       {
         "_class": "border",
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
+          "blue": 0.5529411764705879,
+          "green": 0.06666666666666662,
+          "red": 0.9176470588235294
         },
         "fillType": 0,
-        "isEnabled": false,
-        "position": 1,
+        "isEnabled": true,
+        "position": 0,
         "thickness": 1
       }
     ],
-    "do_objectID": "2A6634CA-1E61-44F9-A137-A1DE4C6356F7",
+    "do_objectID": "27EA5A63-681D-4FBC-88F3-5A6FA32533AB",
     "endDecorationType": 0,
     "fills": [
       {
@@ -66,12 +75,12 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,

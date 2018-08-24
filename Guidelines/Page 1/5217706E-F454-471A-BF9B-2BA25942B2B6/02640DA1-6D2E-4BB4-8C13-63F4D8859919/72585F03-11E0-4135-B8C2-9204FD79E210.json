@@ -9,36 +9,34 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 0.4,
+            "green": 0.4,
+            "red": 0.4
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SourceSansPro-SemiBold",
-              "size": 16
+              "name": "OpenSans",
+              "size": 18
             }
           },
-          "kerning": 0,
           "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "allowsDefaultTighteningForTruncation": 0
+            "_class": "paragraphStyle"
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 23,
+        "length": 22,
         "location": 0
       }
     ],
-    "string": "Miga de pan en Usuarios"
+    "string": "Alcance y limitaciones"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "do_objectID": "AAFE21DE-9A57-47CB-AEC8-237AEF12AE77",
+  "do_objectID": "72585F03-11E0-4135-B8C2-9204FD79E210",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "71635A75-02A1-446A-979B-0E461D871726",
+    "do_objectID": "AC855926-3159-4434-820E-E53FFD09A39F",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -49,20 +47,20 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "A01C3F97-AC46-4D09-8D31-5CB295F17B78",
-    "height": 20,
-    "width": 167,
-    "x": 121,
-    "y": 1159
+    "do_objectID": "26A554FC-FC69-4320-AB76-AB7FF310CAEA",
+    "height": 24,
+    "width": 184,
+    "x": 247,
+    "y": 0
   },
-  "glyphBounds": "{{1, 4}, {165, 16}}",
+  "glyphBounds": "{{0, 5}, {183, 19}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Miga de pan en Usuar",
+  "name": "Alcance y limitacion",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -70,32 +68,31 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "44A75448-19C0-4651-8F80-8595BA99AA33",
+    "do_objectID": "3F54613F-ADB3-4C8C-A103-CEA15E6E90F6",
     "endDecorationType": 0,
     "miterLimit": 10,
+    "sharedObjectID": "769AD694-606C-4F67-88B2-B2227A96809C",
     "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "80B96666-E350-4C57-8DD2-860D91602E85",
+      "do_objectID": "0C265AFB-9709-4548-9CDF-4D71B9B04459",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.4,
+          "green": 0.4,
+          "red": 0.4
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SourceSansPro-SemiBold",
-            "size": 16
+            "name": "OpenSans",
+            "size": 18
           }
         },
-        "kerning": 0,
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "allowsDefaultTighteningForTruncation": 0
+          "_class": "paragraphStyle"
         },
         "textStyleVerticalAlignmentKey": 0
       },

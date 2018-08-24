@@ -9,36 +9,34 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 0.4,
+            "green": 0.4,
+            "red": 0.4
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SourceSansPro-SemiBold",
-              "size": 16
+              "name": "OpenSans",
+              "size": 14
             }
           },
-          "kerning": 0,
           "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "allowsDefaultTighteningForTruncation": 0
+            "_class": "paragraphStyle"
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 23,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "Miga de pan en Usuarios"
+    "string": "Proceso 1"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "do_objectID": "AAFE21DE-9A57-47CB-AEC8-237AEF12AE77",
+  "do_objectID": "590E443F-1920-4EF0-80D4-FD801632DAAA",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "71635A75-02A1-446A-979B-0E461D871726",
+    "do_objectID": "57A22B8E-C3D1-48F2-A730-807207A637A3",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -49,20 +47,20 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "A01C3F97-AC46-4D09-8D31-5CB295F17B78",
-    "height": 20,
-    "width": 167,
-    "x": 121,
-    "y": 1159
+    "do_objectID": "CB955222-7092-4C68-B5C1-9E8884C309AA",
+    "height": 19,
+    "width": 64,
+    "x": 84,
+    "y": 3
   },
-  "glyphBounds": "{{1, 4}, {165, 16}}",
+  "glyphBounds": "{{1, 5}, {60, 11}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Miga de pan en Usuar",
+  "name": "Proceso 1",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -70,32 +68,31 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "44A75448-19C0-4651-8F80-8595BA99AA33",
+    "do_objectID": "600D2878-5E8A-4C93-968E-234DA75AA1FD",
     "endDecorationType": 0,
     "miterLimit": 10,
+    "sharedObjectID": "F4E7A1B1-CF62-44B5-A15C-B65217B5ED6F",
     "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "80B96666-E350-4C57-8DD2-860D91602E85",
+      "do_objectID": "68EBAE9C-EBC8-4794-A452-0AB055101500",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.4,
+          "green": 0.4,
+          "red": 0.4
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SourceSansPro-SemiBold",
-            "size": 16
+            "name": "OpenSans",
+            "size": 14
           }
         },
-        "kerning": 0,
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "allowsDefaultTighteningForTruncation": 0
+          "_class": "paragraphStyle"
         },
         "textStyleVerticalAlignmentKey": 0
       },

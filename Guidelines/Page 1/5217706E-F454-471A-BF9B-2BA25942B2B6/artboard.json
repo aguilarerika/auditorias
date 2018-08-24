@@ -32,13 +32,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "44CCE577-956B-4C6F-BD91-1115C43D6B90",
-    "height": 1984,
+    "height": 3071,
     "width": 1440,
     "x": 3137,
     "y": -1909
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": -844,
@@ -83,12 +83,20 @@
       "id": "A06C769F-F752-43E6-BA2E-8E58DDEA6D11"
     },
     {
+      "class": "group",
+      "id": "02640DA1-6D2E-4BB4-8C13-63F4D8859919"
+    },
+    {
       "class": "text",
       "id": "81E12634-100A-4F38-ABFC-4544D77E0515"
     },
     {
       "class": "text",
       "id": "AAFE21DE-9A57-47CB-AEC8-237AEF12AE77"
+    },
+    {
+      "class": "text",
+      "id": "CA2B64B5-6CD7-4DC1-8F48-6DD10AC7B769"
     },
     {
       "class": "group",
@@ -112,7 +120,15 @@
     },
     {
       "class": "group",
+      "id": "2181E32E-79FA-43C9-8517-03206E13114B"
+    },
+    {
+      "class": "group",
       "id": "589E3586-6E75-427A-889E-3EBEE063C2BC"
+    },
+    {
+      "class": "group",
+      "id": "1AF7F4C9-00B7-43C8-87E0-487300DD0136"
     }
   ],
   "name": "Componentes_especiales",

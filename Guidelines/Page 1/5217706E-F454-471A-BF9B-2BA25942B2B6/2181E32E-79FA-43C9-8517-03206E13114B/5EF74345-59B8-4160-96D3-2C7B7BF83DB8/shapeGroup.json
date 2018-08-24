@@ -1,10 +1,10 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "A06C769F-F752-43E6-BA2E-8E58DDEA6D11",
+  "do_objectID": "5EF74345-59B8-4160-96D3-2C7B7BF83DB8",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "0D36BD2C-BA85-47EB-AE56-2119EACC0FC1",
+    "do_objectID": "96DE8B39-CA54-4834-975E-B650E8A311E4",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,12 +14,12 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "do_objectID": "41012EB0-063D-4875-B5C6-56DDBA1B3DCE",
-    "height": 2589,
-    "width": 1371,
-    "x": 35,
-    "y": 286
+    "constrainProportions": true,
+    "do_objectID": "D1A13925-379F-459B-A5AC-D9A9BDF0EE45",
+    "height": 5,
+    "width": 5,
+    "x": 57,
+    "y": 0
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -30,11 +30,11 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "95EAA4AF-BFCC-4EB8-A34A-E1106AC3D8BC"
+      "class": "oval",
+      "id": "CE2E8EAA-DB83-42D3-84F8-919A7C638FAD"
     }
   ],
-  "name": "Rectangle 6",
+  "name": "Oval",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -42,6 +42,15 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "5AC02B5C-3147-48BB-A776-41487A7B26BB",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "type": 0
+    },
     "borders": [
       {
         "_class": "border",
@@ -54,11 +63,11 @@
         },
         "fillType": 0,
         "isEnabled": false,
-        "position": 1,
-        "thickness": 1
+        "position": 0,
+        "thickness": 0.5
       }
     ],
-    "do_objectID": "2A6634CA-1E61-44F9-A137-A1DE4C6356F7",
+    "do_objectID": "88269D0A-5FED-475C-97A0-506B6D9EB199",
     "endDecorationType": 0,
     "fills": [
       {
@@ -66,9 +75,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.5529411764705879,
+          "green": 0.06666666666666662,
+          "red": 0.9176470588235294
         },
         "fillType": 0,
         "isEnabled": true,
