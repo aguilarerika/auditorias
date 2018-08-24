@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 125,
+  "changeIdentifier": 479,
   "do_objectID": "AC2BA27E-545C-4B89-A0D7-280A9B41DC3B",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,7 +21,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 50,
+    "height": 36,
     "width": 294,
     "x": 593,
     "y": 0
@@ -32,6 +32,7 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      -221
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -53,7 +54,7 @@
       "id": "4759BC99-11B1-48B9-BB48-97748D8F9DB9"
     }
   ],
-  "name": "botón asignar",
+  "name": "asignar",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
