@@ -27,164 +27,11 @@
         "backgroundColor": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9333333333333333,
-          "green": 0.9607843137254902,
-          "red": 0.8509803921568627
+          "blue": 0.8368989690742714,
+          "green": 0.9136373299319728,
+          "red": 0.5818742164785343
         },
-        "changeIdentifier": 1087,
-        "do_objectID": "1E82C535-529C-4D53-A4E5-A6F2B0EF1485",
-        "exportOptions": {
-          "_class": "exportOptions",
-          "exportFormats": [
-          ],
-          "includedLayerIds": [
-          ],
-          "layerOptions": 0,
-          "shouldTrim": false
-        },
-        "frame": {
-          "_class": "rect",
-          "constrainProportions": false,
-          "height": 48,
-          "width": 48,
-          "x": 260,
-          "y": -1656
-        },
-        "hasBackgroundColor": true,
-        "hasClickThrough": false,
-        "horizontalRulerData": {
-          "_class": "rulerData",
-          "base": 0,
-          "guides": [
-          ]
-        },
-        "includeBackgroundColorInExport": true,
-        "includeBackgroundColorInInstance": true,
-        "includeInCloudUpload": true,
-        "isFlippedHorizontal": false,
-        "isFlippedVertical": false,
-        "isFlowHome": false,
-        "isLocked": false,
-        "isVisible": true,
-        "layerListExpandedType": 0,
-        "layers": [
-        ],
-        "name": "principal/estado/desactivado",
-        "nameIsFixed": true,
-        "resizesContent": false,
-        "resizingConstraint": 63,
-        "resizingType": 0,
-        "rotation": 0,
-        "shouldBreakMaskChain": true,
-        "style": {
-          "_class": "style",
-          "endDecorationType": 0,
-          "miterLimit": 10,
-          "startDecorationType": 0
-        },
-        "symbolID": "0644535C-E0CF-4881-AE08-FCF148626A32",
-        "userInfo": {
-          "com.animaapp.stc-sketch-plugin": {
-            "kModelPropertiesKey": {
-            }
-          }
-        },
-        "verticalRulerData": {
-          "_class": "rulerData",
-          "base": 0,
-          "guides": [
-          ]
-        }
-      },
-      "sourceLibraryName": "colores",
-      "symbolMaster": {
-        "_class": "symbolMaster",
-        "backgroundColor": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.9333333333333333,
-          "green": 0.9607843137254902,
-          "red": 0.8509803921568627
-        },
-        "changeIdentifier": 1087,
-        "do_objectID": "1E82C535-529C-4D53-A4E5-A6F2B0EF1485",
-        "exportOptions": {
-          "_class": "exportOptions",
-          "exportFormats": [
-          ],
-          "includedLayerIds": [
-          ],
-          "layerOptions": 0,
-          "shouldTrim": false
-        },
-        "frame": {
-          "_class": "rect",
-          "constrainProportions": false,
-          "height": 48,
-          "width": 48,
-          "x": 260,
-          "y": -1656
-        },
-        "hasBackgroundColor": true,
-        "hasClickThrough": false,
-        "horizontalRulerData": {
-          "_class": "rulerData",
-          "base": 0,
-          "guides": [
-          ]
-        },
-        "includeBackgroundColorInExport": true,
-        "includeBackgroundColorInInstance": true,
-        "includeInCloudUpload": true,
-        "isFlippedHorizontal": false,
-        "isFlippedVertical": false,
-        "isFlowHome": false,
-        "isLocked": false,
-        "isVisible": true,
-        "layerListExpandedType": 0,
-        "layers": [
-        ],
-        "name": "principal/estado/desactivado",
-        "nameIsFixed": true,
-        "resizesContent": false,
-        "resizingConstraint": 63,
-        "resizingType": 0,
-        "rotation": 0,
-        "shouldBreakMaskChain": true,
-        "style": {
-          "_class": "style",
-          "endDecorationType": 0,
-          "miterLimit": 10,
-          "startDecorationType": 0
-        },
-        "symbolID": "45497211-E2BC-413D-AE91-FCEDB3617E54",
-        "userInfo": {
-          "com.animaapp.stc-sketch-plugin": {
-            "kModelPropertiesKey": {
-            }
-          }
-        },
-        "verticalRulerData": {
-          "_class": "rulerData",
-          "base": 0,
-          "guides": [
-          ]
-        }
-      }
-    },
-    {
-      "_class": "MSImmutableForeignSymbol",
-      "libraryID": "6AFE772D-1253-46D2-91D8-13A67F6188E8",
-      "originalMaster": {
-        "_class": "symbolMaster",
-        "backgroundColor": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.5647058823529412,
-          "green": 0.7529411764705882,
-          "red": 0.02745098039215689
-        },
-        "changeIdentifier": 840,
+        "changeIdentifier": 850,
         "do_objectID": "7469A9DB-9B6C-439E-8D7E-B5FE00796797",
         "exportOptions": {
           "_class": "exportOptions",
@@ -255,11 +102,11 @@
         "backgroundColor": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.5647058823529412,
-          "green": 0.7529411764705882,
-          "red": 0.02745098039215689
+          "blue": 0.8368989690742714,
+          "green": 0.9136373299319728,
+          "red": 0.5818742164785343
         },
-        "changeIdentifier": 840,
+        "changeIdentifier": 850,
         "do_objectID": "7469A9DB-9B6C-439E-8D7E-B5FE00796797",
         "exportOptions": {
           "_class": "exportOptions",
@@ -8773,6 +8620,159 @@
           "_class": "rulerData",
           "base": 0,
           "do_objectID": "275FF919-C622-4CE0-8311-CF868D7AF2A5",
+          "guides": [
+          ]
+        }
+      }
+    },
+    {
+      "_class": "MSImmutableForeignSymbol",
+      "libraryID": "6AFE772D-1253-46D2-91D8-13A67F6188E8",
+      "originalMaster": {
+        "_class": "symbolMaster",
+        "backgroundColor": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2784313725490196,
+          "green": 0.3686274509803922,
+          "red": 0.01960784313725487
+        },
+        "changeIdentifier": 1291,
+        "do_objectID": "385050B3-7E26-4674-A3A2-D01A1D64D23C",
+        "exportOptions": {
+          "_class": "exportOptions",
+          "exportFormats": [
+          ],
+          "includedLayerIds": [
+          ],
+          "layerOptions": 0,
+          "shouldTrim": false
+        },
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 48,
+          "width": 48,
+          "x": 324,
+          "y": -1656
+        },
+        "hasBackgroundColor": true,
+        "hasClickThrough": false,
+        "horizontalRulerData": {
+          "_class": "rulerData",
+          "base": 0,
+          "guides": [
+          ]
+        },
+        "includeBackgroundColorInExport": true,
+        "includeBackgroundColorInInstance": true,
+        "includeInCloudUpload": true,
+        "isFlippedHorizontal": false,
+        "isFlippedVertical": false,
+        "isFlowHome": false,
+        "isLocked": false,
+        "isVisible": true,
+        "layerListExpandedType": 0,
+        "layers": [
+        ],
+        "name": "principal/estado/seleccionado",
+        "nameIsFixed": true,
+        "resizesContent": false,
+        "resizingConstraint": 63,
+        "resizingType": 0,
+        "rotation": 0,
+        "shouldBreakMaskChain": true,
+        "style": {
+          "_class": "style",
+          "endDecorationType": 0,
+          "miterLimit": 10,
+          "startDecorationType": 0
+        },
+        "symbolID": "802F2353-B694-4F5B-A54A-B38481AD8E89",
+        "userInfo": {
+          "com.animaapp.stc-sketch-plugin": {
+            "kModelPropertiesKey": {
+            }
+          }
+        },
+        "verticalRulerData": {
+          "_class": "rulerData",
+          "base": 0,
+          "guides": [
+          ]
+        }
+      },
+      "sourceLibraryName": "colores",
+      "symbolMaster": {
+        "_class": "symbolMaster",
+        "backgroundColor": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2784313725490196,
+          "green": 0.3686274509803922,
+          "red": 0.01960784313725487
+        },
+        "changeIdentifier": 1291,
+        "do_objectID": "385050B3-7E26-4674-A3A2-D01A1D64D23C",
+        "exportOptions": {
+          "_class": "exportOptions",
+          "exportFormats": [
+          ],
+          "includedLayerIds": [
+          ],
+          "layerOptions": 0,
+          "shouldTrim": false
+        },
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 48,
+          "width": 48,
+          "x": 324,
+          "y": -1656
+        },
+        "hasBackgroundColor": true,
+        "hasClickThrough": false,
+        "horizontalRulerData": {
+          "_class": "rulerData",
+          "base": 0,
+          "guides": [
+          ]
+        },
+        "includeBackgroundColorInExport": true,
+        "includeBackgroundColorInInstance": true,
+        "includeInCloudUpload": true,
+        "isFlippedHorizontal": false,
+        "isFlippedVertical": false,
+        "isFlowHome": false,
+        "isLocked": false,
+        "isVisible": true,
+        "layerListExpandedType": 0,
+        "layers": [
+        ],
+        "name": "principal/estado/seleccionado",
+        "nameIsFixed": true,
+        "resizesContent": false,
+        "resizingConstraint": 63,
+        "resizingType": 0,
+        "rotation": 0,
+        "shouldBreakMaskChain": true,
+        "style": {
+          "_class": "style",
+          "endDecorationType": 0,
+          "miterLimit": 10,
+          "startDecorationType": 0
+        },
+        "symbolID": "99A5F234-3D49-452D-81C0-2F7023370A97",
+        "userInfo": {
+          "com.animaapp.stc-sketch-plugin": {
+            "kModelPropertiesKey": {
+            }
+          }
+        },
+        "verticalRulerData": {
+          "_class": "rulerData",
+          "base": 0,
           "guides": [
           ]
         }
