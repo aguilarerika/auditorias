@@ -32,13 +32,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "06BC63F0-13E0-47DC-8450-CED89F883CE9",
-    "height": 1552,
+    "height": 2787,
     "width": 1440,
     "x": -3703,
     "y": -1909
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": -844,
@@ -60,7 +60,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -69,6 +69,66 @@
     {
       "class": "shapeGroup",
       "id": "3378D134-D84F-4CBE-A625-A73D2632E2DA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2B003F39-98B4-4213-BC44-7A27F7B8E600"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7F01B7AA-A5D6-42B7-BDB0-B486D9628DDF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6A5DD81B-E197-45B4-9B22-C54EF83634E7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "90939195-EF9E-4D1E-AAE2-419224D485B8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B6FC7A0F-4F9B-4830-9EE9-24B6178A9AE1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "38BC2F91-F0B9-402D-8323-C7E912F9A589"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C4917383-6ECB-4CC5-9DA3-9FE491A852FE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "30B36FAA-74A6-465D-B7F6-98DFD2852CF0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A888C2B9-7119-4A3C-AD53-F1CF97D46FC9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C1C9F799-DDF5-4DBA-A4B9-AB91B474A650"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4955EA26-B74A-4F1E-9BC9-A1760663E413"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "00E03DA6-23A8-4551-ADDE-53302E5AF476"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "744EFE06-5707-4D62-A245-DE23EDC94CB6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AF041A36-5B94-4BDC-B225-61A68FF84A4B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3CAF8A98-D6A2-4577-893D-592C7B34CE39"
     },
     {
       "class": "shapeGroup",
@@ -133,6 +193,18 @@
     {
       "class": "group",
       "id": "49AE2AE5-93F0-422D-91AB-6744E196E755"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6DE40F59-CCB2-4F71-AB14-700A5C8D8DEE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3DB45042-EB2B-44C9-9559-24B167C7016E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "83E29885-56E6-49CB-9EFA-C71C07EC22CB"
     }
   ],
   "name": "Iconos",
