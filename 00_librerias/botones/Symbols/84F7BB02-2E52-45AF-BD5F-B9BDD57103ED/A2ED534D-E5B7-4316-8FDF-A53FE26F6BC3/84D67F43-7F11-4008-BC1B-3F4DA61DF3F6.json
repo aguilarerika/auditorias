@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
+            "blue": 0.3411764705882352,
+            "green": 0.4627450980392157,
             "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "OpenSans-SemiBold",
-              "size": 18
+              "name": "OpenSans-Bold",
+              "size": 13.32999992370605
             }
           },
           "paragraphStyle": {
@@ -48,12 +48,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "001AB69C-37F8-417C-BB2A-1ADFC9BE53F1",
-    "height": 24,
-    "width": 181,
+    "height": 18,
+    "width": 139,
     "x": 73,
     "y": 0
   },
-  "glyphBounds": "{{0, 5}, {180, 19}}",
+  "glyphBounds": "{{0, 3}, {139, 15}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -68,12 +68,6 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "contextSettings": {
-      "_class": "graphicsContextSettings",
-      "blendMode": 0,
-      "do_objectID": "992579B1-99F0-4225-87C7-E3F1DDDC65F9",
-      "opacity": 0.248828125
-    },
     "do_objectID": "F9288AAB-0AB6-453A-9C39-76EACD76199B",
     "endDecorationType": 0,
     "miterLimit": 10,
@@ -85,15 +79,15 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
+          "blue": 0.3411764705882352,
+          "green": 0.4627450980392157,
           "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "OpenSans-SemiBold",
-            "size": 18
+            "name": "OpenSans-Bold",
+            "size": 13.32999992370605
           }
         },
         "paragraphStyle": {

@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 0.2,
+            "green": 0.2,
+            "red": 0.2
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSans-SemiBold",
-              "size": 18
+              "size": 21.32999992370605
             }
           },
           "paragraphStyle": {
@@ -48,12 +48,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "6CC9A8B1-9941-4061-866C-B0E9FD3D537B",
-    "height": 24,
-    "width": 69,
+    "height": 29,
+    "width": 82,
     "x": 844,
-    "y": 431
+    "y": 427
   },
-  "glyphBounds": "{{1, 5}, {67, 15}}",
+  "glyphBounds": "{{2, 6}, {78, 18}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -71,23 +71,23 @@
     "do_objectID": "88187019-BFD7-4DF7-B152-D94C360BCEC8",
     "endDecorationType": 0,
     "miterLimit": 10,
+    "sharedObjectID": "566B18D2-EE6A-4265-826E-862A37CBF956",
     "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "6DA8E43C-EBC9-4C92-AEEE-9E128238EA64",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.2,
+          "green": 0.2,
+          "red": 0.2
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "OpenSans-SemiBold",
-            "size": 18
+            "size": 21.32999992370605
           }
         },
         "paragraphStyle": {

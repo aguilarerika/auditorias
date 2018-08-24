@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 0.2901960784313726,
+            "green": 0.3803921568627451,
+            "red": 0.03529411764705882
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "OpenSans-SemiBold",
-              "size": 18
+              "name": "OpenSans-Bold",
+              "size": 13.32999992370605
             }
           },
           "paragraphStyle": {
@@ -48,12 +48,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "3B5F94E9-2640-479A-B51C-FB199048CCB8",
-    "height": 24,
-    "width": 168,
+    "height": 18,
+    "width": 129,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 5}, {167, 15}}",
+  "glyphBounds": "{{0, 3}, {128, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -68,12 +68,6 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "contextSettings": {
-      "_class": "graphicsContextSettings",
-      "blendMode": 0,
-      "do_objectID": "929FD1C2-D263-4B61-AC8B-72CE6A24564C",
-      "opacity": 0.248828125
-    },
     "do_objectID": "802F1787-9D01-443A-9D70-D26E841F236D",
     "endDecorationType": 0,
     "miterLimit": 10,
@@ -85,15 +79,15 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.2901960784313726,
+          "green": 0.3803921568627451,
+          "red": 0.03529411764705882
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "OpenSans-SemiBold",
-            "size": 18
+            "name": "OpenSans-Bold",
+            "size": 13.32999992370605
           }
         },
         "paragraphStyle": {

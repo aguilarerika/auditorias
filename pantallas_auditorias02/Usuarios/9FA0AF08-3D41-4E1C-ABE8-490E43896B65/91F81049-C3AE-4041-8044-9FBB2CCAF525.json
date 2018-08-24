@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSans-SemiBold",
-              "size": 18
+              "size": 21.32999992370605
             }
           },
           "paragraphStyle": {
@@ -48,12 +48,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "2C2E1C27-1FB4-4B31-A3BB-65A62D8E26DA",
-    "height": 24,
-    "width": 58,
+    "height": 29,
+    "width": 68,
     "x": 1217,
-    "y": 431
+    "y": 427
   },
-  "glyphBounds": "{{0, 5}, {56, 15}}",
+  "glyphBounds": "{{0, 6}, {67, 18}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -71,10 +71,10 @@
     "do_objectID": "98D7170F-C0DA-4010-976B-FA243F16E9C4",
     "endDecorationType": 0,
     "miterLimit": 10,
+    "sharedObjectID": "566B18D2-EE6A-4265-826E-862A37CBF956",
     "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "7B6C63F7-3F8A-445C-BD26-8747FBEDB698",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -87,7 +87,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "OpenSans-SemiBold",
-            "size": 18
+            "size": 21.32999992370605
           }
         },
         "paragraphStyle": {

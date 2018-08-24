@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "OpenSans-Semibold",
+              "name": "OpenSans-Regular",
               "size": 16
             }
           },
@@ -29,11 +29,11 @@
             "minimumLineHeight": 28
           }
         },
-        "length": 20,
+        "length": 19,
         "location": 0
       }
     ],
-    "string": "Semibold 16px - 1 em"
+    "string": "Regular 16px - 1 em"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "66F67657-079E-42D3-BBBC-94DC40ECFEA7",
@@ -53,18 +53,18 @@
     "constrainProportions": false,
     "do_objectID": "3A4A16F1-A489-4274-A86E-150857E25150",
     "height": 28,
-    "width": 165,
+    "width": 149,
     "x": 313,
     "y": 1141
   },
-  "glyphBounds": "{{0, 4}, {164, 17}}",
+  "glyphBounds": "{{1, 4}, {146, 17}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 1,
-  "name": "Semibold 16px - 1 em",
+  "name": "Regular 16px - 1 em",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -90,7 +90,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "OpenSans-Semibold",
+            "name": "OpenSans-Regular",
             "size": 16
           }
         },
@@ -106,5 +106,12 @@
       "verticalAlignment": 0
     }
   },
-  "textBehaviour": 0
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  }
 }
