@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 690,
+  "changeIdentifier": 987,
   "do_objectID": "DDFC10D1-973B-4C35-A2CC-3222B912AD11",
   "exportOptions": {
     "_class": "exportOptions",
@@ -25,12 +25,12 @@
     "constrainProportions": false,
     "do_objectID": "FA41914E-723D-4855-9CC3-7EC6B42800B5",
     "height": 624,
-    "width": 147,
+    "width": 170,
     "x": -22,
-    "y": 1441
+    "y": -64
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -50,14 +50,22 @@
   "layers": [
     {
       "class": "group",
-      "id": "099FEF26-2BA0-43DA-96E7-EE5CDF021AF8"
+      "id": "228622DE-72B7-44DF-A12C-B1268CCE2712"
     },
     {
       "class": "group",
-      "id": "CEA915DF-2B33-444D-825F-49F2DBE87AB4"
+      "id": "14330EC6-4A7F-4E3D-BAF3-84B62511B417"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "888F8D80-5092-419D-81E5-F2D3BB168E5D"
+    },
+    {
+      "class": "text",
+      "id": "658FE298-E623-4C9C-BBCE-AA16059BFB9A"
     }
   ],
-  "name": "lateral/base/objetivos copy",
+  "name": "lateral/base/objetivos",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

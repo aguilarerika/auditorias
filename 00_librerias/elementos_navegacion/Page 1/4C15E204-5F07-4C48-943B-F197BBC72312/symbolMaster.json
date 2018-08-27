@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 856,
+  "changeIdentifier": 1270,
   "do_objectID": "4C15E204-5F07-4C48-943B-F197BBC72312",
   "exportOptions": {
     "_class": "exportOptions",
@@ -22,7 +22,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 121,
-    "width": 68,
+    "width": 170,
     "x": -690,
     "y": -438
   },
@@ -46,11 +46,19 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "83DD3344-6899-4D25-B9AB-52A38DF22111"
+      "id": "5644800E-C803-4A03-91E1-B977BD55BDD5"
+    },
+    {
+      "class": "text",
+      "id": "A848C7E0-D2BF-4F6D-B4D6-F8FCBD8BA6B1"
     },
     {
       "class": "symbolInstance",
-      "id": "176AC847-85B3-4C2D-9828-0F889818C06D"
+      "id": "D2ED27D3-61AA-4CF7-BC90-33CAB40D048B"
+    },
+    {
+      "class": "text",
+      "id": "131B2A6E-2466-488F-B30B-61FA99FB1ECA"
     }
   ],
   "name": "lateral/defecto",

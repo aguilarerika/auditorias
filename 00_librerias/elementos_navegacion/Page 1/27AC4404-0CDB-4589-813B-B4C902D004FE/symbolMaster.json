@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 859,
+  "changeIdentifier": 1115,
   "do_objectID": "27AC4404-0CDB-4589-813B-B4C902D004FE",
   "exportOptions": {
     "_class": "exportOptions",
@@ -25,12 +25,12 @@
     "constrainProportions": false,
     "do_objectID": "CD32F876-277F-48BE-8278-065D350C78EA",
     "height": 624,
-    "width": 169,
+    "width": 170,
     "x": -438,
-    "y": 1441
+    "y": -64
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -54,10 +54,18 @@
     },
     {
       "class": "group",
-      "id": "8E8B48F5-6750-4E18-A288-42E0D60AB9B9"
+      "id": "C0024E7A-F0C7-4CB1-ADBE-C9D65C8C99F1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E89670C3-A5CC-4CC8-8025-CD108A0A9375"
+    },
+    {
+      "class": "text",
+      "id": "006FD2F4-4910-4C8C-ACCC-FFD1F21DF8D0"
     }
   ],
-  "name": "lateral/base/documentacion copy",
+  "name": "lateral/base/documentacion",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

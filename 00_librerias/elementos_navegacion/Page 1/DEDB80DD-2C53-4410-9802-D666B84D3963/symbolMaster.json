@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 800,
+  "changeIdentifier": 1060,
   "do_objectID": "DEDB80DD-2C53-4410-9802-D666B84D3963",
   "exportOptions": {
     "_class": "exportOptions",
@@ -25,12 +25,12 @@
     "constrainProportions": false,
     "do_objectID": "405EB0BC-8748-43CC-A9C9-FC60C549C529",
     "height": 624,
-    "width": 147,
+    "width": 170,
     "x": 186,
-    "y": 1441
+    "y": -64
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -50,14 +50,22 @@
   "layers": [
     {
       "class": "group",
-      "id": "339705D7-AF34-4EA6-A35F-567710CA4FDF"
+      "id": "470C0597-4D10-4304-BAEF-39F9613DE7E9"
     },
     {
       "class": "group",
-      "id": "EF6ACB1B-411C-4EA4-894F-4D17292FC103"
+      "id": "BFF087B9-E73D-4A75-BCC8-74CF00EC27BE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "84B78EA3-FCB7-4AD5-BE5D-40757E340347"
+    },
+    {
+      "class": "text",
+      "id": "E2E9A8CA-A997-40B4-898F-408F11EDF582"
     }
   ],
-  "name": "lateral/base/alcance copy",
+  "name": "lateral/base/alcance",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
