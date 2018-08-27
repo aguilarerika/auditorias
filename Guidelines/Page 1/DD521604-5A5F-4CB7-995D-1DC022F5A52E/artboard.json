@@ -32,13 +32,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "8745D3B9-7171-4EDA-84A3-AEFF94F5AB78",
-    "height": 3524,
+    "height": 5885,
     "width": 1440,
     "x": -291,
     "y": -1909
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": -844,
@@ -46,7 +46,6 @@
     "guides": [
       1004,
       1566,
-      1978,
       965,
       2164,
       1502,
@@ -67,24 +66,12 @@
       "id": "EF4EB4D6-2FA0-469D-BF72-3C3EA5214AD4"
     },
     {
-      "class": "shapeGroup",
-      "id": "A677A326-10CB-466A-80E6-807B1C7E19BC"
+      "class": "symbolInstance",
+      "id": "A1BE63C4-5D14-47D4-956D-652009E45D25"
     },
     {
-      "class": "shapeGroup",
-      "id": "58BAF84D-D628-4CBB-B5E7-5CA3FC3C65B9"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "B49E9AB9-29E2-4C9B-BFD8-BE8FB24B0310"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "E0B66E67-89A1-4D3C-8F7A-0EDEC119562E"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "6D9578CD-7F60-42C4-9931-DDA481A69E00"
+      "class": "symbolInstance",
+      "id": "C83A71B2-EB6D-49DE-AD97-2E8B7ADAC71D"
     },
     {
       "class": "shapeGroup",
@@ -112,6 +99,10 @@
     },
     {
       "class": "group",
+      "id": "B0131678-1446-4372-9BFA-913D28FAADFA"
+    },
+    {
+      "class": "group",
       "id": "BFE03054-358F-43AA-94D1-22A4C7CA7F97"
     },
     {
@@ -120,11 +111,15 @@
     },
     {
       "class": "group",
+      "id": "F0667F9D-E8BC-43BD-9812-A630B957A37A"
+    },
+    {
+      "class": "group",
       "id": "BCFBFC77-4D52-48B2-A570-B4FD8A6B85F3"
     },
     {
-      "class": "text",
-      "id": "78BA1AE0-E3F5-4F71-97F9-1E46A7932C65"
+      "class": "group",
+      "id": "0A6AF2B4-E07D-4E43-8012-DC2A49C1E955"
     },
     {
       "class": "text",
@@ -136,19 +131,15 @@
     },
     {
       "class": "group",
-      "id": "D25E2A7E-BB30-4076-A2E9-B700174E1A62"
+      "id": "FED65FC3-093F-4251-8391-FBDBE4EED754"
     },
     {
       "class": "group",
-      "id": "7E32EA8B-7318-42D3-AAAF-FA9DD164EC00"
+      "id": "4ADE907A-A4CF-4F84-95D4-F67E689311FD"
     },
     {
       "class": "group",
-      "id": "6AB449CC-652D-41B4-985B-0F604CD67E23"
-    },
-    {
-      "class": "group",
-      "id": "64DBBF11-234D-411A-B2FD-819E3E5CCC1F"
+      "id": "1512AE27-AE29-41AB-92B4-A98720D44B32"
     },
     {
       "class": "group",
@@ -157,6 +148,22 @@
     {
       "class": "symbolInstance",
       "id": "AF63DF1B-59A1-4861-9F3F-3CCDB673C396"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "682CD0B3-FDD9-4CFC-B4AE-AAAF6DED4FD2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C1A16AA1-D555-44CE-8CC2-13CDE975D4B2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "049C1BBE-8F4F-4B47-B536-1406CE8BA987"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E69EC40B-C039-47CC-AD59-66B1941D4AC7"
     }
   ],
   "name": "Botones",

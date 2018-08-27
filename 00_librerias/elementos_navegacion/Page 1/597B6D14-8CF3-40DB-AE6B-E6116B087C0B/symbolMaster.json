@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 896,
+  "changeIdentifier": 999,
   "do_objectID": "597B6D14-8CF3-40DB-AE6B-E6116B087C0B",
   "exportOptions": {
     "_class": "exportOptions",
@@ -30,7 +30,7 @@
     "y": -64
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -48,10 +48,6 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "group",
-      "id": "2CADF4F9-3EA1-460B-8EF1-39FE4A0894E8"
-    },
     {
       "class": "group",
       "id": "F3BB4DF4-02CF-4DD7-92A3-39E073662F11"
@@ -91,6 +87,10 @@
     {
       "class": "text",
       "id": "F3A0853C-C333-4B07-886F-4FD1A56F76EC"
+    },
+    {
+      "class": "group",
+      "id": "0B4CFBC6-F999-4A32-8D7F-75C5670A39AE"
     }
   ],
   "name": "lateral/base/requerimientos",

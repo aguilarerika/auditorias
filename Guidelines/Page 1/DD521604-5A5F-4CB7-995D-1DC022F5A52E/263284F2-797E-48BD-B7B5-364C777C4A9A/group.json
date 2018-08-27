@@ -15,17 +15,17 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "C6D1E904-2513-46FD-802F-FB4DD284DACB",
-    "height": 449,
+    "height": 767,
     "width": 974,
     "x": 160,
-    "y": 1055
+    "y": 1458
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
@@ -34,6 +34,10 @@
     {
       "class": "group",
       "id": "B0BEC25D-4B61-41F9-9C56-422DC40892D0"
+    },
+    {
+      "class": "group",
+      "id": "CC492DFB-38E0-4644-A2BB-844EE347A80F"
     }
   ],
   "name": "retícula",

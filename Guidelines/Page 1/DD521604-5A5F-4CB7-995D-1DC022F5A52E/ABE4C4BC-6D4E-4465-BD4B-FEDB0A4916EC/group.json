@@ -15,10 +15,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "023A5650-A300-4B08-8644-A2D31C8BFFC1",
-    "height": 147,
-    "width": 349,
+    "height": 374,
+    "width": 350,
     "x": 753,
-    "y": 827
+    "y": 991
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -32,8 +32,16 @@
       "id": "8204F15D-C9B5-4DA6-BB8C-A548CA166787"
     },
     {
+      "class": "shapeGroup",
+      "id": "F69FC1ED-CC4D-4FA1-A66D-88F34917DDB1"
+    },
+    {
       "class": "text",
       "id": "505883AB-885B-4F07-B254-D052286AD63D"
+    },
+    {
+      "class": "text",
+      "id": "CFE25E21-75CA-4B4A-9008-3E046B95E768"
     },
     {
       "class": "text",
@@ -41,11 +49,23 @@
     },
     {
       "class": "text",
+      "id": "98E4C115-4790-4CCF-AC06-B1BB334EA40E"
+    },
+    {
+      "class": "text",
       "id": "3DFC57BA-3488-4539-ACE2-3D60B2AB9124"
     },
     {
       "class": "text",
+      "id": "E6B1E0A1-F629-4FCC-B409-46638C82BB49"
+    },
+    {
+      "class": "text",
       "id": "F77F1B21-7F91-44E1-8B44-6D60E0A4610D"
+    },
+    {
+      "class": "text",
+      "id": "13918CE2-4063-4C20-BCBD-BF79F56509DD"
     },
     {
       "class": "shapeGroup",
@@ -53,11 +73,23 @@
     },
     {
       "class": "shapeGroup",
+      "id": "9A07314B-08D2-49B7-AEDA-655597931E9F"
+    },
+    {
+      "class": "shapeGroup",
       "id": "278E4CAB-DFBA-43F5-A3C5-CA8F2B798E3D"
     },
     {
       "class": "shapeGroup",
+      "id": "B2206E77-5405-4228-8D00-CA67606C9540"
+    },
+    {
+      "class": "shapeGroup",
       "id": "ADF589BA-B769-45E2-8FA8-7E1A76949CA8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "75BDD836-8C19-4C73-9F7E-7D1B7388D745"
     },
     {
       "class": "group",
@@ -69,7 +101,15 @@
     },
     {
       "class": "shapeGroup",
+      "id": "53BCD3DB-B590-44DF-BAF6-11AA56A572A0"
+    },
+    {
+      "class": "shapeGroup",
       "id": "8D06ECF9-1DCD-470B-A99E-D3BC6F6A7CDD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A5A70833-20ED-43B8-8E77-F39EF7435B91"
     }
   ],
   "name": "medidas secundario",

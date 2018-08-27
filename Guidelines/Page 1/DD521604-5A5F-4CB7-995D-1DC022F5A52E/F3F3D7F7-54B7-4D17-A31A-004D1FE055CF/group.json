@@ -15,10 +15,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "33F1040C-E903-4AF1-8284-3A1E8A4F7C31",
-    "height": 360,
+    "height": 387,
     "width": 1096,
     "x": 160,
-    "y": 1637
+    "y": 2395
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -34,6 +34,18 @@
     {
       "class": "text",
       "id": "977E95C5-552B-4A0F-99CC-8C1C3F312BA0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "58BAF84D-D628-4CBB-B5E7-5CA3FC3C65B9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A677A326-10CB-466A-80E6-807B1C7E19BC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B49E9AB9-29E2-4C9B-BFD8-BE8FB24B0310"
     }
   ],
   "name": "estadosbot1",

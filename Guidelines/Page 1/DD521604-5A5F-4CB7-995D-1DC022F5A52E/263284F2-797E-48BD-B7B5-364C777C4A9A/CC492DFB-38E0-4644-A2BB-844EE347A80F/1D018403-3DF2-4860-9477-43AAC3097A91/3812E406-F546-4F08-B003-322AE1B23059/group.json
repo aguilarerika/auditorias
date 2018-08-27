@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "3812E406-F546-4F08-B003-322AE1B23059",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DDB13656-7276-486E-99D4-C5434CCD11CE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "556E5E85-AA8E-4139-80A6-0735A81C2909",
+    "height": 100,
+    "width": 100,
+    "x": 0,
+    "y": 62
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "55DDD540-0490-47BD-A335-9B1C1D2B3C90"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "122D50B7-566F-4119-9B3B-739F49C91E5B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5919BF20-6F84-483B-8862-E6B7E5EE6302"
+    }
+  ],
+  "name": "rueda",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3A856A8A-01B2-4D2F-AD1A-79602868DFDF",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

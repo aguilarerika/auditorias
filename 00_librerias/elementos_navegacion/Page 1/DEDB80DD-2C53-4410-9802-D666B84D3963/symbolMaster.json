@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1060,
+  "changeIdentifier": 1156,
   "do_objectID": "DEDB80DD-2C53-4410-9802-D666B84D3963",
   "exportOptions": {
     "_class": "exportOptions",
@@ -30,7 +30,7 @@
     "y": -64
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -63,6 +63,26 @@
     {
       "class": "text",
       "id": "E2E9A8CA-A997-40B4-898F-408F11EDF582"
+    },
+    {
+      "class": "group",
+      "id": "A7069046-85B8-427B-B0C2-B1677BB925BE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "83AFC4F2-3F9E-417F-8430-EF0F6E139F6D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "092D483D-4AB8-43D6-9233-DADC7B88DF84"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F6B1A0D1-834B-48E5-A85E-ACB64E95FD7E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "404DBBF3-518B-42BC-A9E4-25D7CB5BE0FE"
     }
   ],
   "name": "lateral/base/alcance",
