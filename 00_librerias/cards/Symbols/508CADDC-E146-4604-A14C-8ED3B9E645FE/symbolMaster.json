@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1596,
+  "changeIdentifier": 2178,
   "do_objectID": "508CADDC-E146-4604-A14C-8ED3B9E645FE",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "height": 331,
     "width": 1135,
     "x": 100,
-    "y": 941
+    "y": 1054
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -36,7 +36,7 @@
     "base": 0,
     "do_objectID": "C7354A02-0897-4A6B-857C-8637CC26614D",
     "guides": [
-      25,
+      33,
       1080,
       1030
     ]
@@ -73,27 +73,31 @@
     },
     {
       "class": "symbolInstance",
-      "id": "CCA259EB-E024-400A-AB13-20E1C096CE22"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "AB103640-B540-41E8-8F72-0411A48BF391"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "4116636E-E048-4919-952B-7BB9FAAEBD60"
-    },
-    {
-      "class": "symbolInstance",
       "id": "B691ADC6-5719-41F6-AE05-CFC522E97B2C"
     },
     {
-      "class": "text",
-      "id": "8988F380-5169-42DC-AA2D-30A4622D6A8B"
+      "class": "shapeGroup",
+      "id": "ACC8D9DB-2819-48CA-9F50-B9BC42628BAC"
     },
     {
-      "class": "group",
-      "id": "6A906204-78BA-4D31-B184-2BD62CC0CDA6"
+      "class": "text",
+      "id": "3669D5A6-F837-4252-9C46-B80638F86E22"
+    },
+    {
+      "class": "text",
+      "id": "CC959122-73C1-4F0D-BC4B-3B9C1DAB2A30"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "83E20416-EE23-4597-B8AB-B37C58E27D6C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2AC303AD-A589-4D10-BF6E-3025BE8EA127"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "715F11C1-6C44-47ED-9DFC-9ABF84F7FD02"
     }
   ],
   "name": "documento/estado/expandida2",

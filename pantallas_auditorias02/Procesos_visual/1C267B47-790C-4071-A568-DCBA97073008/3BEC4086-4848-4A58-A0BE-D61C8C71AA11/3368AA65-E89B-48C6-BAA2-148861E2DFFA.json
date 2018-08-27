@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "3368AA65-E89B-48C6-BAA2-148861E2DFFA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DA655D36-4D95-4CF6-AF41-F82A5D2233B1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "830143FC-738B-4BD2-8251-BE91AC024CCB",
+    "height": 18,
+    "width": 18,
+    "x": 153,
+    "y": 3
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "IC_arrow-right",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6C103E6B-F874-414B-9F57-F47111D5FFF5",
+      "overrideName": "402C9762-E52B-4FD9-BF55-534838FE634D_symbolID",
+      "value": "5E421642-B7E7-402D-88C7-524E5BAAC0E9"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F95EE3E8-BA9C-4B69-86A7-757C8F651E27",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "A5A0FFAE-2EEE-46F9-B8F9-7E4E83B57F50",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 18,
+            "enabled": 1,
+            "modelID": "constraint_e666d4c3-2786-4968-a9fd-4fd4e8ce06b4",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 18
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_e5b08ee8-2b54-4d30-84b5-b30c0d91a332",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

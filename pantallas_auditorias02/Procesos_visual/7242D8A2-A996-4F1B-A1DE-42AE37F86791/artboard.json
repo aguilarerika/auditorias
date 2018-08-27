@@ -75,10 +75,6 @@
     },
     {
       "class": "symbolInstance",
-      "id": "E0B6C26A-F668-4A35-B8C1-A13931C02681"
-    },
-    {
-      "class": "symbolInstance",
       "id": "0F74C577-E139-4D1F-BECC-0D27566296E8"
     },
     {
@@ -88,6 +84,10 @@
     {
       "class": "symbolInstance",
       "id": "7492767F-3D51-4834-AC91-E03F2FFE3361"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "247A528F-58B8-40A9-839D-DF6F82F9102A"
     }
   ],
   "layout": {
@@ -101,7 +101,7 @@
     "gutterWidth": 21.09090909090909,
     "guttersOutside": false,
     "horizontalOffset": 100,
-    "isEnabled": true,
+    "isEnabled": false,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
     "totalWidth": 1240
@@ -138,7 +138,6 @@
     "base": 0,
     "do_objectID": "68C86BA4-7790-413B-9E02-17476CDAE2EC",
     "guides": [
-      297
     ]
   }
 }

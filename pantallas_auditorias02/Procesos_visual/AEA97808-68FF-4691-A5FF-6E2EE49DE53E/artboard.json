@@ -75,10 +75,6 @@
     },
     {
       "class": "symbolInstance",
-      "id": "AE8162F6-222D-4EAF-BB30-268F34F81F8C"
-    },
-    {
-      "class": "symbolInstance",
       "id": "A54980E1-AA41-4BD4-8A8F-AE6D587C9D17"
     },
     {
@@ -88,6 +84,10 @@
     {
       "class": "symbolInstance",
       "id": "C548D1C9-AA90-4511-BEFF-AE0BE09AEAC3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "72311762-4C77-4C15-8C39-E63874AC5BB0"
     }
   ],
   "layout": {
@@ -101,7 +101,7 @@
     "gutterWidth": 21.09090909090909,
     "guttersOutside": false,
     "horizontalOffset": 100,
-    "isEnabled": true,
+    "isEnabled": false,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
     "totalWidth": 1240

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1617,
+  "changeIdentifier": 5701,
   "do_objectID": "18F1C8A7-82D1-4826-9208-65D7DECFBF8E",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,7 +21,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 331,
+    "height": 330,
     "width": 1135,
     "x": 100,
     "y": 517
@@ -32,8 +32,8 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
-      25,
-      1080,
+      47,
+      1095,
       1030
     ]
   },
@@ -60,10 +60,6 @@
       "id": "220378EB-7FD8-48E9-99FA-C7EE8C7B98EA"
     },
     {
-      "class": "group",
-      "id": "EF3B01E1-D3A3-4BC8-BC6A-1D5000436FA8"
-    },
-    {
       "class": "symbolInstance",
       "id": "FBB712ED-1A7A-485A-AE23-4C6FDEA5E045"
     },
@@ -73,15 +69,19 @@
     },
     {
       "class": "symbolInstance",
-      "id": "746A18C6-7712-4256-B8E6-86161D0E78C5"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "16B6D5C3-DE62-4CF8-8DD7-D463074B99DD"
-    },
-    {
-      "class": "symbolInstance",
       "id": "C400AAD7-8419-4678-8112-9CF5A2BB43DC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "884B4BB4-20F0-4A12-AC5D-73A041516832"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "54814110-9A1C-4805-91D8-BC4A58ED99EA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4729E472-65E7-4CBB-8D40-8B1BDF388301"
     }
   ],
   "name": "documento/estado/expandida",
