@@ -15,10 +15,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "053ED8B9-0993-4341-9667-135AD80066E9",
-    "height": 128,
-    "width": 244,
-    "x": 753,
-    "y": 591
+    "height": 157,
+    "width": 837,
+    "x": 160,
+    "y": 562
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -29,7 +29,7 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "FE54FF6E-57B1-42E2-86D9-A72C3499F550"
+      "id": "0CCFEFC5-A415-4AC4-9262-B176E2037D31"
     },
     {
       "class": "shapeGroup",
@@ -70,6 +70,10 @@
     {
       "class": "shapeGroup",
       "id": "ACE61C8A-333E-4A3A-B464-267E07D73D60"
+    },
+    {
+      "class": "group",
+      "id": "208DE0A2-31DC-4F03-82BE-C7F2FB3AEFDA"
     }
   ],
   "name": "medidas_botprim",

@@ -16,8 +16,8 @@
     "constrainProportions": false,
     "do_objectID": "97732019-B654-443D-BB65-72ACDB2D7C8F",
     "height": 265,
-    "width": 294,
-    "x": 548,
+    "width": 344,
+    "x": 498,
     "y": 0
   },
   "hasClickThrough": false,
@@ -34,6 +34,10 @@
     {
       "class": "text",
       "id": "232A0D93-1105-4970-B730-2C0789C3EC3A"
+    },
+    {
+      "class": "group",
+      "id": "8C33B0E0-8F00-4012-A16B-655A069123C8"
     }
   ],
   "name": "grid_asignar copy",

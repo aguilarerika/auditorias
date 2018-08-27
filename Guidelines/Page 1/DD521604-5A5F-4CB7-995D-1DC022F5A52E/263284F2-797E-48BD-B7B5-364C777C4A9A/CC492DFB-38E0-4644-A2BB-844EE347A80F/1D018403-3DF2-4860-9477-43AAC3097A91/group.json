@@ -16,7 +16,7 @@
     "constrainProportions": false,
     "do_objectID": "936D839A-5ACA-438B-9C40-8E4024A1E65F",
     "height": 246,
-    "width": 598,
+    "width": 344,
     "x": 0,
     "y": 7
   },
@@ -25,11 +25,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
       "id": "AAF92BE0-8F87-43EB-AF4E-384E3847A81A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "842C7607-22EB-45B7-981A-375D2AD15766"
     },
     {
       "class": "text",
@@ -38,10 +42,6 @@
     {
       "class": "group",
       "id": "3812E406-F546-4F08-B003-322AE1B23059"
-    },
-    {
-      "class": "group",
-      "id": "8C33B0E0-8F00-4012-A16B-655A069123C8"
     }
   ],
   "name": "reti_botprim copy",

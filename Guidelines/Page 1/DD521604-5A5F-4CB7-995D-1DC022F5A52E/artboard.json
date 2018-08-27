@@ -48,8 +48,7 @@
       1566,
       965,
       2164,
-      1502,
-      1688
+      1502
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -68,10 +67,6 @@
     {
       "class": "symbolInstance",
       "id": "A1BE63C4-5D14-47D4-956D-652009E45D25"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "C83A71B2-EB6D-49DE-AD97-2E8B7ADAC71D"
     },
     {
       "class": "shapeGroup",
@@ -95,19 +90,11 @@
     },
     {
       "class": "group",
-      "id": "2F33128B-34B7-4A8E-8613-C722F9A83785"
-    },
-    {
-      "class": "group",
       "id": "B0131678-1446-4372-9BFA-913D28FAADFA"
     },
     {
       "class": "group",
       "id": "BFE03054-358F-43AA-94D1-22A4C7CA7F97"
-    },
-    {
-      "class": "group",
-      "id": "208DE0A2-31DC-4F03-82BE-C7F2FB3AEFDA"
     },
     {
       "class": "group",
@@ -146,6 +133,10 @@
       "id": "263284F2-797E-48BD-B7B5-364C777C4A9A"
     },
     {
+      "class": "group",
+      "id": "2F33128B-34B7-4A8E-8613-C722F9A83785"
+    },
+    {
       "class": "symbolInstance",
       "id": "AF63DF1B-59A1-4861-9F3F-3CCDB673C396"
     },
@@ -154,16 +145,32 @@
       "id": "682CD0B3-FDD9-4CFC-B4AE-AAAF6DED4FD2"
     },
     {
-      "class": "symbolInstance",
-      "id": "C1A16AA1-D555-44CE-8CC2-13CDE975D4B2"
+      "class": "group",
+      "id": "F05F4BC1-F223-4980-A8F4-984F6B3FE605"
+    },
+    {
+      "class": "group",
+      "id": "C30E14F6-9B4F-4F16-93FF-FB295E969F43"
+    },
+    {
+      "class": "group",
+      "id": "175C868C-D6EF-483D-9B68-E56CFC9561AB"
     },
     {
       "class": "symbolInstance",
-      "id": "049C1BBE-8F4F-4B47-B536-1406CE8BA987"
+      "id": "CF25ED6C-DA42-4584-80CD-8FEB5E1933A8"
     },
     {
       "class": "symbolInstance",
-      "id": "E69EC40B-C039-47CC-AD59-66B1941D4AC7"
+      "id": "EAB9FF4F-D12F-47B4-A61F-511DA58E4047"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3A677716-76AD-422E-B3D6-E020D4189AA5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6AACF90F-5334-4E2F-A6ED-4B23BDA14600"
     }
   ],
   "name": "Botones",
