@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "08F125F4-A6AB-4589-9E6B-24493483B444",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A2EBA1CA-54F0-48A2-8DC4-D1E3897BFA45",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "ADE8E5A8-AE41-4B8D-A68F-B873575310E5",
+    "height": 111,
+    "width": 362,
+    "x": 116,
+    "y": 202
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "FAF1E5F8-C289-47AA-992A-1AB6A67611EA"
+    },
+    {
+      "class": "text",
+      "id": "90D5EA43-D593-4680-93B7-4B45CC9AB82F"
+    }
+  ],
+  "name": "planteamiento",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0AEA1A9E-37F1-47D0-8D97-52A29FD5D2E4",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

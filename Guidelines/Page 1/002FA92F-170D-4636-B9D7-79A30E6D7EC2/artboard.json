@@ -32,13 +32,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "9D063F4E-5F94-4A22-969A-EB4F174257BF",
-    "height": 3071,
+    "height": 2323,
     "width": 1706,
-    "x": 5451,
-    "y": -1862
+    "x": 4877,
+    "y": -1909
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": -844,
@@ -55,7 +55,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -64,18 +64,6 @@
     {
       "class": "group",
       "id": "4CDC90FF-E42E-4DE7-A0DB-BA74BCED3625"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "5F32C799-5A7B-4CEE-9665-05F249CC5256"
-    },
-    {
-      "class": "group",
-      "id": "7145F8E6-37BA-4499-B8C1-0E8FEC82DF13"
-    },
-    {
-      "class": "group",
-      "id": "312AB36F-68C2-4E13-8D06-CBF8BB1907FA"
     },
     {
       "class": "text",
@@ -88,26 +76,6 @@
     {
       "class": "symbolInstance",
       "id": "20F55450-5F52-449F-A82E-5F05590F474F"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "C19417A0-4D11-418B-9065-F79EE85EB0E8"
-    },
-    {
-      "class": "group",
-      "id": "9073B3C2-E0E7-405A-9EB7-57865F68F2DB"
-    },
-    {
-      "class": "group",
-      "id": "BDBAE063-5EB3-448D-B9AC-93B152F37AB2"
-    },
-    {
-      "class": "group",
-      "id": "1652D6BD-BBCE-4608-B2CF-BE00A0079262"
-    },
-    {
-      "class": "group",
-      "id": "5187073A-ABB3-4BFA-82F0-DEB071ABFB19"
     },
     {
       "class": "group",
@@ -127,27 +95,11 @@
     },
     {
       "class": "group",
-      "id": "7850C569-0DF7-401D-A55D-2774BB52C080"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "397A56FC-92F0-4745-9E91-D0771E7274C5"
-    },
-    {
-      "class": "group",
-      "id": "7386318F-3485-4359-A402-F27DC06D0FBE"
+      "id": "6C5AC303-BF80-4FCA-BF0E-91C7B7CFA8F0"
     },
     {
       "class": "symbolInstance",
       "id": "4EDD4D00-0E4C-47C9-995A-F51F3A3E63C3"
-    },
-    {
-      "class": "group",
-      "id": "10A0E235-A3E1-4E47-8395-979ACBF4E36F"
-    },
-    {
-      "class": "group",
-      "id": "13624C78-943C-49D2-88E2-3EBC5D6AD7AB"
     }
   ],
   "layout": {
