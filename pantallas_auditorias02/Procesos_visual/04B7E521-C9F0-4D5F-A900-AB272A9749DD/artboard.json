@@ -45,7 +45,7 @@
     "thickGridTimes": 0
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -87,10 +87,6 @@
       "id": "E9215F8E-792B-43F2-AAE2-AA7C0CB3680B"
     },
     {
-      "class": "symbolInstance",
-      "id": "50F89EFD-10FC-41FF-ACFE-32D17F333D9E"
-    },
-    {
       "class": "shapeGroup",
       "id": "ED9A0087-6582-4B67-9090-525AD3E34626"
     },
@@ -104,19 +100,19 @@
     },
     {
       "class": "symbolInstance",
-      "id": "580A103E-B684-40B4-83A6-7A77DDD80C04"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "68E5BE13-3CE9-4FB0-8478-F3223A58CC8C"
-    },
-    {
-      "class": "symbolInstance",
       "id": "3567CBDE-05CC-4F7C-BF68-AD8FAD4A2BC3"
     },
     {
       "class": "group",
       "id": "4A165E5F-6E74-40E3-855D-FF5250CE6D17"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "00FBF7DB-1427-463E-B7ED-5F60D9324101"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5DA3A02F-C6EE-4D1D-991E-824F33E5F14D"
     }
   ],
   "layout": {

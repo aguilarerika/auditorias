@@ -17,19 +17,21 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSans-SemiBold",
-              "size": 21.32999992370605
+              "size": 23.04000091552734
             }
           },
           "paragraphStyle": {
-            "_class": "paragraphStyle"
+            "_class": "paragraphStyle",
+            "maximumLineHeight": 23.04000091552734,
+            "minimumLineHeight": 23.04000091552734
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 22,
+        "length": 19,
         "location": 0
       }
     ],
-    "string": "Descripción del riesgo"
+    "string": "Nombre del riesgo 1"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "63C0EFB7-5B49-4B17-B21C-BE0242B7EFAB",
@@ -48,19 +50,19 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "EA4366B1-F9C1-4109-AB54-6A9432C278C5",
-    "height": 29,
+    "height": 23.04000091552734,
     "width": 268,
-    "x": 23,
-    "y": 17
+    "x": 0,
+    "y": 0
   },
-  "glyphBounds": "{{2, 6}, {223, 23}}",
+  "glyphBounds": "{{2, 2}, {218, 24}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Descripción del ries",
+  "name": "Nombre del riesgo 1",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -87,11 +89,13 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "OpenSans-SemiBold",
-            "size": 21.32999992370605
+            "size": 23.04000091552734
           }
         },
         "paragraphStyle": {
-          "_class": "paragraphStyle"
+          "_class": "paragraphStyle",
+          "maximumLineHeight": 23.04000091552734,
+          "minimumLineHeight": 23.04000091552734
         },
         "textStyleVerticalAlignmentKey": 0
       },

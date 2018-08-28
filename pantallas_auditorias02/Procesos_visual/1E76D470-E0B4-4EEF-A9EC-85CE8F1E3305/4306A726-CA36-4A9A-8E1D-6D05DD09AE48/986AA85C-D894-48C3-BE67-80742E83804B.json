@@ -9,21 +9,21 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.4,
-            "green": 0.4,
-            "red": 0.4
+            "blue": 0.2,
+            "green": 0.2,
+            "red": 0.2
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "OpenSans-Regular",
-              "size": 19.20000076293945
+              "name": "OpenSans-SemiBold",
+              "size": 23.04000091552734
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "maximumLineHeight": 19.20000076293945,
-            "minimumLineHeight": 19.20000076293945
+            "maximumLineHeight": 23.04000091552734,
+            "minimumLineHeight": 23.04000091552734
           },
           "textStyleVerticalAlignmentKey": 0
         },
@@ -50,12 +50,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "AD3D4E52-B9A5-46A3-919E-845FCA99E94A",
-    "height": 20,
-    "width": 135,
+    "height": 24,
+    "width": 168,
     "x": 0,
-    "y": 0.7999992370605469
+    "y": -2.040000915527344
   },
-  "glyphBounds": "{{1, 2}, {133, 20}}",
+  "glyphBounds": "{{2, 2}, {165, 24}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -73,7 +73,7 @@
     "do_objectID": "67A3E26B-A81C-49E2-AE77-CF00D513891A",
     "endDecorationType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "C17B720C-CF2C-480A-9939-7E8A48564B9A",
+    "sharedObjectID": "566B18D2-EE6A-4265-826E-862A37CBF956",
     "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
@@ -81,21 +81,21 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4,
-          "green": 0.4,
-          "red": 0.4
+          "blue": 0.2,
+          "green": 0.2,
+          "red": 0.2
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "OpenSans-Regular",
-            "size": 19.20000076293945
+            "name": "OpenSans-SemiBold",
+            "size": 23.04000091552734
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "maximumLineHeight": 19.20000076293945,
-          "minimumLineHeight": 19.20000076293945
+          "maximumLineHeight": 23.04000091552734,
+          "minimumLineHeight": 23.04000091552734
         },
         "textStyleVerticalAlignmentKey": 0
       },

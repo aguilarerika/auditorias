@@ -13,17 +13,17 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 168,
-    "width": 1134,
-    "x": 206,
-    "y": 1278
+    "height": 173,
+    "width": 1129,
+    "x": 209,
+    "y": 1350
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
@@ -32,10 +32,6 @@
     {
       "class": "text",
       "id": "CCA3A64E-1F5A-4F4F-9770-FF6744E758E2"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "35C87E5B-CC5B-4C63-804D-B0A39D9849C0"
     }
   ],
   "name": "observaciones",

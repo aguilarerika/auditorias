@@ -17,11 +17,13 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSans-SemiBold",
-              "size": 21.32999992370605
+              "size": 23.04000091552734
             }
           },
           "paragraphStyle": {
-            "_class": "paragraphStyle"
+            "_class": "paragraphStyle",
+            "maximumLineHeight": 23.04000091552734,
+            "minimumLineHeight": 23.04000091552734
           },
           "textStyleVerticalAlignmentKey": 0
         },
@@ -48,12 +50,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "C450C78F-B69E-4665-B9A9-4DD6FCCC912C",
-    "height": 29,
+    "height": 23.04000091552734,
     "width": 133,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{1, 6}, {109, 23}}",
+  "glyphBounds": "{{1, 2}, {118, 24}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -87,11 +89,13 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "OpenSans-SemiBold",
-            "size": 21.32999992370605
+            "size": 23.04000091552734
           }
         },
         "paragraphStyle": {
-          "_class": "paragraphStyle"
+          "_class": "paragraphStyle",
+          "maximumLineHeight": 23.04000091552734,
+          "minimumLineHeight": 23.04000091552734
         },
         "textStyleVerticalAlignmentKey": 0
       },
