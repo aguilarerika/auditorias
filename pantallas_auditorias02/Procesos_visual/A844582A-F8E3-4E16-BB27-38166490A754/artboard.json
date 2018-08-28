@@ -143,7 +143,6 @@
   "layout": {
     "_class": "layoutGrid",
     "columnWidth": 84,
-    "do_objectID": "8AF90D2F-B169-4F25-9B98-AC90B443DBF0",
     "drawHorizontal": false,
     "drawHorizontalLines": false,
     "drawVertical": true,
@@ -151,7 +150,7 @@
     "gutterWidth": 21.09090909090909,
     "guttersOutside": false,
     "horizontalOffset": 100,
-    "isEnabled": false,
+    "isEnabled": true,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
     "totalWidth": 1240
