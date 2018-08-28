@@ -9,19 +9,21 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2,
-            "green": 0.2,
-            "red": 0.2
+            "blue": 0.4,
+            "green": 0.4,
+            "red": 0.4
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSans-Regular",
-              "size": 24
+              "size": 19.20000076293945
             }
           },
           "paragraphStyle": {
-            "_class": "paragraphStyle"
+            "_class": "paragraphStyle",
+            "maximumLineHeight": 19.20000076293945,
+            "minimumLineHeight": 19.20000076293945
           },
           "textStyleVerticalAlignmentKey": 0
         },
@@ -48,12 +50,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "AD3D4E52-B9A5-46A3-919E-845FCA99E94A",
-    "height": 33,
-    "width": 169,
+    "height": 20,
+    "width": 135,
     "x": 0,
-    "y": 0
+    "y": 0.7999992370605469
   },
-  "glyphBounds": "{{2, 7}, {166, 25}}",
+  "glyphBounds": "{{1, 2}, {133, 20}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -71,7 +73,7 @@
     "do_objectID": "67A3E26B-A81C-49E2-AE77-CF00D513891A",
     "endDecorationType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "B91043DC-4106-4A2E-8D90-E7414080724D",
+    "sharedObjectID": "C17B720C-CF2C-480A-9939-7E8A48564B9A",
     "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
@@ -79,19 +81,21 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2,
-          "green": 0.2,
-          "red": 0.2
+          "blue": 0.4,
+          "green": 0.4,
+          "red": 0.4
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "OpenSans-Regular",
-            "size": 24
+            "size": 19.20000076293945
           }
         },
         "paragraphStyle": {
-          "_class": "paragraphStyle"
+          "_class": "paragraphStyle",
+          "maximumLineHeight": 19.20000076293945,
+          "minimumLineHeight": 19.20000076293945
         },
         "textStyleVerticalAlignmentKey": 0
       },

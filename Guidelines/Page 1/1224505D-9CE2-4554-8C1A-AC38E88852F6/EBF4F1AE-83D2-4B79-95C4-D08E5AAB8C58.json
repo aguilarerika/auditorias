@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "OpenSans",
-              "size": 21.32999992370605
+              "name": "OpenSans-SemiBold",
+              "size": 23.04000091552734
             }
           },
           "kerning": 0,
@@ -29,11 +29,11 @@
             "minimumLineHeight": 28
           }
         },
-        "length": 8,
+        "length": 2,
         "location": 0
       }
     ],
-    "string": "Headline"
+    "string": "H2"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "EBF4F1AE-83D2-4B79-95C4-D08E5AAB8C58",
@@ -53,18 +53,18 @@
     "constrainProportions": false,
     "do_objectID": "4CC2B106-A5C4-4386-A73E-24D500FFC9A1",
     "height": 28,
-    "width": 89,
-    "x": 724,
-    "y": 1139
+    "width": 31,
+    "x": 720,
+    "y": 956
   },
-  "glyphBounds": "{{2, 6}, {86, 18}}",
+  "glyphBounds": "{{2, 8}, {28, 17}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 1,
-  "name": "Headline",
+  "name": "H2",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -90,8 +90,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "OpenSans",
-            "size": 21.32999992370605
+            "name": "OpenSans-SemiBold",
+            "size": 23.04000091552734
           }
         },
         "kerning": 0,
@@ -106,5 +106,12 @@
       "verticalAlignment": 0
     }
   },
-  "textBehaviour": 0
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  }
 }

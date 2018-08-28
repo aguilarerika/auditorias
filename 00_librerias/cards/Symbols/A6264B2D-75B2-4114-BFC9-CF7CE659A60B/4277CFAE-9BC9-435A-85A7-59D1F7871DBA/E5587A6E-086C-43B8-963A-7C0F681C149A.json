@@ -17,13 +17,13 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSans-Regular",
-              "size": 18
+              "size": 16
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "maximumLineHeight": 18,
-            "minimumLineHeight": 18
+            "maximumLineHeight": 16,
+            "minimumLineHeight": 16
           },
           "textStyleVerticalAlignmentKey": 0
         },
@@ -50,12 +50,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "FEB94C42-52D1-4258-AC95-2BDD9BBE6676",
-    "height": 18,
+    "height": 16,
     "width": 179.84140969163,
-    "x": 108.9039647577092,
-    "y": 25
+    "x": 109,
+    "y": 22
   },
-  "glyphBounds": "{{0, 2}, {178, 15}}",
+  "glyphBounds": "{{0, 1}, {159, 14}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -89,13 +89,13 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "OpenSans-Regular",
-            "size": 18
+            "size": 16
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "maximumLineHeight": 18,
-          "minimumLineHeight": 18
+          "maximumLineHeight": 16,
+          "minimumLineHeight": 16
         },
         "textStyleVerticalAlignmentKey": 0
       },
@@ -106,7 +106,7 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "isAutoWidth": 1
+        "isAutoWidth": 0
       }
     }
   }

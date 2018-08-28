@@ -17,11 +17,13 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSans-Regular",
-              "size": 24
+              "size": 23.04000091552734
             }
           },
           "paragraphStyle": {
-            "_class": "paragraphStyle"
+            "_class": "paragraphStyle",
+            "maximumLineHeight": 23.04000091552734,
+            "minimumLineHeight": 23.04000091552734
           },
           "textStyleVerticalAlignmentKey": 0
         },
@@ -48,12 +50,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "01B381B4-3FBC-4BEA-BB27-93B0AEE043EB",
-    "height": 33,
-    "width": 101,
+    "height": 24,
+    "width": 97,
     "x": 0,
-    "y": 0
+    "y": 0.9599990844726562
   },
-  "glyphBounds": "{{2, 8}, {98, 19}}",
+  "glyphBounds": "{{2, 3}, {94, 18}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -87,11 +89,13 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "OpenSans-Regular",
-            "size": 24
+            "size": 23.04000091552734
           }
         },
         "paragraphStyle": {
-          "_class": "paragraphStyle"
+          "_class": "paragraphStyle",
+          "maximumLineHeight": 23.04000091552734,
+          "minimumLineHeight": 23.04000091552734
         },
         "textStyleVerticalAlignmentKey": 0
       },

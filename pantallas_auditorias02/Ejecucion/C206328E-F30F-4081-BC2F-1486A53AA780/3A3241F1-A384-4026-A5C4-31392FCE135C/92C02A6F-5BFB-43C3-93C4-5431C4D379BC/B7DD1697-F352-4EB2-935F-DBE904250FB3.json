@@ -16,12 +16,14 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "OpenSans",
-              "size": 18
+              "name": "OpenSans-Regular",
+              "size": 19.20000076293945
             }
           },
           "paragraphStyle": {
-            "_class": "paragraphStyle"
+            "_class": "paragraphStyle",
+            "maximumLineHeight": 19.20000076293945,
+            "minimumLineHeight": 19.20000076293945
           },
           "textStyleVerticalAlignmentKey": 0
         },
@@ -48,12 +50,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "9D114F3F-9818-4304-8564-23FA06E83D17",
-    "height": 24,
-    "width": 150,
+    "height": 20,
+    "width": 160,
     "x": 247,
-    "y": 0
+    "y": -0.2000007629394531
   },
-  "glyphBounds": "{{1, 5}, {148, 19}}",
+  "glyphBounds": "{{1, 2}, {158, 20}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -75,7 +77,6 @@
     "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "8DFAA0F2-0555-4912-8F29-EEAB8E0BBC1D",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -87,12 +88,14 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "OpenSans",
-            "size": 18
+            "name": "OpenSans-Regular",
+            "size": 19.20000076293945
           }
         },
         "paragraphStyle": {
-          "_class": "paragraphStyle"
+          "_class": "paragraphStyle",
+          "maximumLineHeight": 19.20000076293945,
+          "minimumLineHeight": 19.20000076293945
         },
         "textStyleVerticalAlignmentKey": 0
       },

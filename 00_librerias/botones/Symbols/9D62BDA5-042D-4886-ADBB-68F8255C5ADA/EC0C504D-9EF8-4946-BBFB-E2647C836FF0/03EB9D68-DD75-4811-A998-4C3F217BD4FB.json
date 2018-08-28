@@ -17,12 +17,14 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSans-Bold",
-              "size": 13.32999992370605
+              "size": 16
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2
+            "alignment": 2,
+            "maximumLineHeight": 16,
+            "minimumLineHeight": 16
           }
         },
         "length": 21,
@@ -48,12 +50,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "7F138C56-1DD4-447D-81BE-705AA053D67B",
-    "height": 18,
+    "height": 16,
     "width": 258,
     "x": 18,
-    "y": 8
+    "y": 12.34567901234567
   },
-  "glyphBounds": "{{53, 3}, {151, 15}}",
+  "glyphBounds": "{{38, 1}, {181, 17}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -87,12 +89,14 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "OpenSans-Bold",
-            "size": 13.32999992370605
+            "size": 16
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2
+          "alignment": 2,
+          "maximumLineHeight": 16,
+          "minimumLineHeight": 16
         }
       },
       "verticalAlignment": 0

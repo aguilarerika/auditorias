@@ -103,6 +103,14 @@
     {
       "class": "symbolMaster",
       "id": "F6043344-F6A5-4345-8267-0218FA112825"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8974C8A1-C90A-4675-B893-EB506D21F58A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "22F9E4A9-54DF-4FB0-BD76-AA6AAA15E99C"
     }
   ],
   "name": "Symbols",
@@ -116,6 +124,12 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.nivritti.diya": {
+      "screens": [
+      ]
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "OpenSans",
-              "size": 28.43000030517578
+              "name": "OpenSans-Regular",
+              "size": 27.6299991607666
             }
           },
           "ligature": 0,
@@ -28,11 +28,11 @@
             "minimumLineHeight": 32
           }
         },
-        "length": 11,
+        "length": 2,
         "location": 0
       }
     ],
-    "string": "Large Title"
+    "string": "H1"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "0F20D60E-D133-4CA9-B1E3-5D64BBABBEBE",
@@ -53,17 +53,17 @@
     "do_objectID": "F250F83B-9ECA-480D-99A9-A51576D3F2A6",
     "height": 32,
     "width": 155,
-    "x": 724,
-    "y": 1096
+    "x": 720,
+    "y": 914
   },
-  "glyphBounds": "{{2, 8}, {134, 29}}",
+  "glyphBounds": "{{2, 10}, {29, 20}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 1,
-  "name": "Large Title",
+  "name": "H1",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -89,8 +89,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "OpenSans",
-            "size": 28.43000030517578
+            "name": "OpenSans-Regular",
+            "size": 27.6299991607666
           }
         },
         "ligature": 0,
@@ -104,5 +104,12 @@
       "verticalAlignment": 0
     }
   },
-  "textBehaviour": 1
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    }
+  }
 }

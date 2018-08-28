@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "OpenSans-Semibold",
-              "size": 21.32999992370605
+              "name": "OpenSans-SemiBold",
+              "size": 23.04000091552734
             }
           },
           "kerning": 0,
@@ -29,11 +29,11 @@
             "minimumLineHeight": 28
           }
         },
-        "length": 27,
+        "length": 17,
         "location": 0
       }
     ],
-    "string": "Semibold 21.328px - 1.333em"
+    "string": "Semibold 23,04 px"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "9896DBD1-F159-4DAC-B6C7-23FF1DC415C8",
@@ -53,18 +53,18 @@
     "constrainProportions": false,
     "do_objectID": "04DB70C0-C89B-499B-9FF4-9FD356CD8D70",
     "height": 28,
-    "width": 299,
-    "x": 913,
-    "y": 1139
+    "width": 202,
+    "x": 909,
+    "y": 956
   },
-  "glyphBounds": "{{1, 6}, {296, 23}}",
+  "glyphBounds": "{{1, 7}, {201, 24}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 1,
-  "name": "Semibold 21.328px -",
+  "name": "Semibold 23,04 px",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -90,8 +90,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "OpenSans-Semibold",
-            "size": 21.32999992370605
+            "name": "OpenSans-SemiBold",
+            "size": 23.04000091552734
           }
         },
         "kerning": 0,
@@ -106,5 +106,12 @@
       "verticalAlignment": 0
     }
   },
-  "textBehaviour": 0
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  }
 }

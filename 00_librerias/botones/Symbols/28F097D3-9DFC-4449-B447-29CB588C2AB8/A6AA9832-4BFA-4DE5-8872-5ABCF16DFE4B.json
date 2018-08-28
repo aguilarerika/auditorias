@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSans-Bold",
-              "size": 13.32999992370605
+              "size": 16
             }
           },
           "kerning": 0,
@@ -25,7 +25,9 @@
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
-            "allowsDefaultTighteningForTruncation": 0
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 16,
+            "minimumLineHeight": 16
           }
         },
         "length": 7,
@@ -51,18 +53,18 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "0B3FEBC5-AAD3-4B1E-9C06-658B6E776B9D",
-    "height": 18,
+    "height": 16,
     "width": 123,
     "x": 33,
-    "y": 10
+    "y": 13
   },
-  "glyphBounds": "{{34, 3}, {55, 12}}",
+  "glyphBounds": "{{29, 1}, {66, 14}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 1,
+  "lineSpacingBehaviour": 2,
   "name": "Guardar",
   "nameIsFixed": false,
   "originalObjectID": "5F5B31DF-FCBC-435A-8E05-9A9FA15E9B3D",
@@ -91,7 +93,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "OpenSans-Bold",
-            "size": 13.32999992370605
+            "size": 16
           }
         },
         "kerning": 0,
@@ -99,7 +101,9 @@
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
-          "allowsDefaultTighteningForTruncation": 0
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 16,
+          "minimumLineHeight": 16
         }
       },
       "verticalAlignment": 0

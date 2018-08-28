@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "OpenSans",
-              "size": 12
+              "name": "OpenSans-SemiBold",
+              "size": 16
             }
           },
           "kerning": 0,
@@ -29,11 +29,11 @@
             "minimumLineHeight": 24
           }
         },
-        "length": 6,
+        "length": 8,
         "location": 0
       }
     ],
-    "string": "Button"
+    "string": "Button 1"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "758958B3-9761-4A0F-8FB3-DAA9B5812918",
@@ -53,18 +53,18 @@
     "constrainProportions": false,
     "do_objectID": "8697539F-42AF-4676-9F93-5ED422AF5591",
     "height": 24,
-    "width": 39,
-    "x": 724,
-    "y": 1217
+    "width": 67,
+    "x": 720,
+    "y": 1067
   },
-  "glyphBounds": "{{1, 4}, {37, 10}}",
+  "glyphBounds": "{{1, 5}, {63, 13}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 1,
-  "name": "Button",
+  "name": "Button 1",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -90,8 +90,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "OpenSans",
-            "size": 12
+            "name": "OpenSans-SemiBold",
+            "size": 16
           }
         },
         "kerning": 0,
@@ -106,5 +106,12 @@
       "verticalAlignment": 0
     }
   },
-  "textBehaviour": 0
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  }
 }

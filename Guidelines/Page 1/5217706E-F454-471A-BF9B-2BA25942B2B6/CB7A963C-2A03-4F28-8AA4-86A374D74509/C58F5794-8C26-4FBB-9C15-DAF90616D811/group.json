@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "C58F5794-8C26-4FBB-9C15-DAF90616D811",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FB02A6E5-41B5-4B88-AFFD-DC2394338C94",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3F6DFE9B-2629-4FFA-8774-5F46DA110663",
+    "height": 282,
+    "width": 54,
+    "x": 1194,
+    "y": 290
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "B4EC7C01-8881-4A03-AF45-776C7B8BF929"
+    },
+    {
+      "class": "text",
+      "id": "70A5FA25-DAE3-4A08-A674-36AAB296FE7B"
+    },
+    {
+      "class": "text",
+      "id": "A1E135FC-2A3D-499C-88C2-F93D3419D076"
+    }
+  ],
+  "name": "residual",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D23FEE3D-7642-4E24-B35F-5C0A225FC805",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
