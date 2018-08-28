@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SourceSansPro-Regular",
+              "name": "SourceSansPro-SemiBold",
               "size": 16
             }
           },
@@ -53,11 +53,11 @@
     "constrainProportions": false,
     "do_objectID": "6ABB7DC4-89B8-43E4-B29B-EF20AC1A6463",
     "height": 16,
-    "width": 53,
+    "width": 55,
     "x": 121,
     "y": 915
   },
-  "glyphBounds": "{{1, 0}, {52, 13}}",
+  "glyphBounds": "{{1, 0}, {53, 13}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -91,7 +91,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SourceSansPro-Regular",
+            "name": "SourceSansPro-SemiBold",
             "size": 16
           }
         },
