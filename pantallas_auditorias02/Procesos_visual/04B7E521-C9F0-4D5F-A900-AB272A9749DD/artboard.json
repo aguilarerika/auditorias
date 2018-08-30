@@ -45,7 +45,7 @@
     "thickGridTimes": 0
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -122,7 +122,6 @@
   "layout": {
     "_class": "layoutGrid",
     "columnWidth": 84,
-    "do_objectID": "B8F07C38-6BF3-4347-8644-79B20719FC0D",
     "drawHorizontal": false,
     "drawHorizontalLines": false,
     "drawVertical": true,
