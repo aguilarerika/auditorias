@@ -1,9 +1,9 @@
 {
-  "_class": "group",
-  "do_objectID": "AC372AE9-B7C1-4644-A694-185F5C866940",
+  "_class": "symbolInstance",
+  "do_objectID": "FE2FD859-2E34-42FB-A86C-7A9DD8044F85",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "6C596CDA-8769-4268-8126-67CCEA057319",
+    "do_objectID": "2DC9FC7E-9734-46A2-9BD0-006FBDF876E6",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,45 +14,40 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "56297A80-D6C5-4121-AE85-172E4376A78B",
-    "height": 32,
+    "do_objectID": "0C92820D-4369-45CF-AC74-07BB27413044",
+    "height": 40,
     "width": 189,
     "x": 0,
     "y": 0
   },
-  "hasClickThrough": false,
+  "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "shapeGroup",
-      "id": "508A5727-34DC-4B7E-9DE9-91AC66BC1F84"
-    },
-    {
-      "class": "text",
-      "id": "12760E27-04AB-4A40-B8B6-4E4D0A52B701"
-    }
-  ],
-  "name": "Group 4 Copy 4",
+  "name": "filtro/inactivo 1 copy",
   "nameIsFixed": false,
+  "overrideValues": [
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "3DC9B83E-151F-4130-9B67-290036400134",
+    "do_objectID": "B94C8908-DB1E-4AB2-B5D1-BCED97AF5EC2",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
   },
+  "symbolID": "BA07C359-015E-4BD7-A617-12F7ECF7ED70",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
       }
     }
-  }
+  },
+  "verticalSpacing": 0
 }

@@ -18,7 +18,7 @@
     "height": 128,
     "width": 244,
     "x": 0,
-    "y": 2
+    "y": 0
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -27,6 +27,10 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "FE2FD859-2E34-42FB-A86C-7A9DD8044F85"
+    },
     {
       "class": "shapeGroup",
       "id": "522B1EB1-B99A-4F52-9208-57843DD31B2E"
