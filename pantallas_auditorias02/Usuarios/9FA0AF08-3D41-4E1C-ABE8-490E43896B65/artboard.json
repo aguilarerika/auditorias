@@ -94,34 +94,6 @@
       "id": "75182D22-D086-48E3-8CB4-754C3FB06AE4"
     },
     {
-      "class": "text",
-      "id": "BA552CCF-F2DF-44FE-A6EB-DD90E4FB9954"
-    },
-    {
-      "class": "text",
-      "id": "58FE16C0-C63B-4EF1-B581-11E5F8A3E27C"
-    },
-    {
-      "class": "text",
-      "id": "325F9F4F-4887-4095-A2F0-5CE26E23EF15"
-    },
-    {
-      "class": "text",
-      "id": "143BDACE-C084-4187-B2BC-1E2689EC977D"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "1D14A398-D7FA-4D54-A2D0-4F1F1EC9C88C"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "F32D96D5-6A7F-4040-8432-6712D650E762"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "540192A6-88EC-404A-AB72-F859F36C4E4C"
-    },
-    {
       "class": "symbolInstance",
       "id": "96DF60C0-52F2-4D65-A263-27AA8C4FD2D7"
     },
@@ -160,6 +132,10 @@
     {
       "class": "group",
       "id": "41E0AFDA-D656-4B77-AE5A-657F2DAD0096"
+    },
+    {
+      "class": "group",
+      "id": "DED65B5A-0E3C-4A36-85F0-AA17EDF34D33"
     }
   ],
   "layout": {
@@ -172,7 +148,7 @@
     "gutterWidth": 21.09090909090909,
     "guttersOutside": false,
     "horizontalOffset": 100,
-    "isEnabled": false,
+    "isEnabled": true,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
     "totalWidth": 1240
