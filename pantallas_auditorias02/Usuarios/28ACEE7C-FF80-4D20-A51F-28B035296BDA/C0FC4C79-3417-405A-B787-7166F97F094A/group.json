@@ -25,15 +25,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "DA52A597-4147-4C43-8CCD-9DB97B11E6FC"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "902FAD42-F4DA-4667-A420-A1F2D46119B8"
     },
     {
       "class": "group",
@@ -42,6 +38,14 @@
     {
       "class": "text",
       "id": "933F5430-9FC0-4D72-BD4F-4AD46CC1AA50"
+    },
+    {
+      "class": "text",
+      "id": "FE7EEBF6-0394-4166-88E7-3ED1103B80A8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0F9BA1A7-A69B-43F1-87ED-30E886D48C43"
     }
   ],
   "name": "cabecera",

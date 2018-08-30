@@ -1,0 +1,86 @@
+{
+  "_class": "group",
+  "do_objectID": "E15EC002-2E2C-4844-841F-253C5CCAE061",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C3787E55-164D-4F30-AD4B-845A5294E2FC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8FCEBA9E-A47B-4624-8D8F-B2820824D5AC",
+    "height": 363,
+    "width": 121,
+    "x": 100,
+    "y": 263
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "66640057-4199-4189-81FF-8D9CFBD4BD65"
+    },
+    {
+      "class": "group",
+      "id": "E24F559C-05AF-42CA-AC4C-69384E45DBE1"
+    },
+    {
+      "class": "text",
+      "id": "A933D5F4-1029-4F3E-9EEE-EA7FF405D5C9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AE36EFF1-0747-4ED3-841D-5DCBDF6A9F74"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "53D09FFF-46BF-4AD4-BC94-AC7D687A6126"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D1750AA8-A83A-4644-BAA4-1D9815320BF6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C6B9A365-1955-4878-800F-2190C7AA5D32"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4C13BF5E-8218-4734-ADEF-95339B267D0A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "03269012-9422-4A64-AF0B-3522FFCD37E7"
+    }
+  ],
+  "name": "lateral/base/documentacion 1 copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8261C553-15F0-45C6-BA28-35A1AB1074AA",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

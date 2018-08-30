@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "CC17918C-81CE-487C-B655-F90B1106B830",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "23077186-61C6-46FC-AC17-D47C5C2500BC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "96C384C2-84C8-44FD-B9D0-F2BCE443934E",
+    "height": 36,
+    "width": 294,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4B418AF9-2EB5-4892-845A-D57A0A1276BA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B703B370-E79A-4C80-9157-54BABDCEFAFA"
+    },
+    {
+      "class": "text",
+      "id": "B4071F31-3A48-4773-AC3C-A07ED9B94BA1"
+    }
+  ],
+  "name": "selector/estado/defecto",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3067D72E-DAFF-42BB-B85F-941584D75BC8",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

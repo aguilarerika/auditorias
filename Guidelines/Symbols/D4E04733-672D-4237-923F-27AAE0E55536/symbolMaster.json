@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 102,
+  "changeIdentifier": 229,
   "do_objectID": "D4E04733-672D-4237-923F-27AAE0E55536",
   "exportOptions": {
     "_class": "exportOptions",
@@ -43,7 +43,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -54,6 +54,21 @@
       "id": "0299F177-D81C-4688-B19E-A96B30938304"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 64,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 17.45454545454545,
+    "guttersOutside": false,
+    "horizontalOffset": 240,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
   "name": "cabecera",
   "nameIsFixed": false,
   "resizesContent": false,

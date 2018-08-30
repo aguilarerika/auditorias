@@ -15,25 +15,21 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "D0E0BDCE-9BA4-40DA-BFE9-3470848032FE",
-    "height": 32,
+    "height": 40,
     "width": 189,
-    "x": 100,
-    "y": 311
+    "x": 98,
+    "y": 306
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "EB513A1A-5862-4325-89FB-E5EC9EF8BC37"
-    },
-    {
-      "class": "text",
-      "id": "462205E1-DD65-4F1C-A501-7C9CF88B7A98"
+      "class": "symbolInstance",
+      "id": "D660AF14-5446-4200-A0C3-F95C0AC8E366"
     }
   ],
   "name": "Group 4",

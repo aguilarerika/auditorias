@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 3,
+  "changeIdentifier": 201,
   "do_objectID": "F6043344-F6A5-4345-8267-0218FA112825",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,7 +21,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 32,
+    "height": 40,
     "width": 189,
     "x": 3203,
     "y": 0
@@ -32,6 +32,8 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      183,
+      95
     ]
   },
   "includeBackgroundColorInExport": true,
