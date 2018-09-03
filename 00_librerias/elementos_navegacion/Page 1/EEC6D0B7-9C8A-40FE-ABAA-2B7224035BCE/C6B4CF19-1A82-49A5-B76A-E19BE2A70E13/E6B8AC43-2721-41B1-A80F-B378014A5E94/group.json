@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "E6B8AC43-2721-41B1-A80F-B378014A5E94",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7D85136A-E55F-4226-A059-8E3EFEC1758B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E56ED873-5B4D-40A3-A3C5-8450AC839744",
+    "height": 48,
+    "width": 1440,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "46DC74BA-AAEE-4EE3-A360-5100E188B498"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "80E240D8-05ED-4D2B-BB7D-E32BDE4D5B8A"
+    },
+    {
+      "class": "text",
+      "id": "38B9AAC6-C1EC-43D3-A048-C391B861E646"
+    }
+  ],
+  "name": "rctsngulo",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7670BA26-6D15-4DC7-AFCA-3CA24E12D0C1",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

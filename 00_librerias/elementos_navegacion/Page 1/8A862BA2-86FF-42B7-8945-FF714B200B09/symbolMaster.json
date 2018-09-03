@@ -1,0 +1,84 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "C0B46859-2869-432B-8CF3-784342C9B1B3",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 2127,
+  "do_objectID": "8A862BA2-86FF-42B7-8945-FF714B200B09",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6C16ECCB-5188-415E-913E-C098BF58610A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "470404F4-C9EC-46CE-BC40-6E55A965FAEB",
+    "height": 624,
+    "width": 170,
+    "x": -438,
+    "y": 760
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4E2C418A-64F4-4C5D-AF5C-0050479DAAD7",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "99BD64D6-0142-44D2-A50E-9A391096EA72"
+    }
+  ],
+  "name": "lateral/documentacion/defecto",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2183BB77-2C7A-496A-93B3-AE4B1F29D43B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "7FBE37E2-512F-47A3-B91C-64FED0C62B9D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4DEA184F-0D5D-451A-8E11-A156452B66F8",
+    "guides": [
+    ]
+  }
+}

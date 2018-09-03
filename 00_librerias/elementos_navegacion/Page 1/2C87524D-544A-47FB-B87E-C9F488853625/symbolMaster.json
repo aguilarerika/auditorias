@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 4169,
+  "changeIdentifier": 4205,
   "do_objectID": "2C87524D-544A-47FB-B87E-C9F488853625",
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,46 +50,10 @@
   "layers": [
     {
       "class": "group",
-      "id": "B5AB61D7-46F5-4F04-B867-EDEDEF3AA9F7"
-    },
-    {
-      "class": "group",
-      "id": "42BB5641-C9BE-4FFA-8096-E55EB2BAB8FB"
-    },
-    {
-      "class": "text",
-      "id": "0D163ED7-4655-494B-8DC6-98E6AFCCCBF6"
-    },
-    {
-      "class": "text",
-      "id": "5169D910-619D-40CF-B043-06ADBD02B340"
-    },
-    {
-      "class": "text",
-      "id": "B5FDDBAA-DAE1-424D-825B-E529D4296C89"
-    },
-    {
-      "class": "text",
-      "id": "9EF70E95-C3A0-4A4E-9BF1-664F9A352147"
-    },
-    {
-      "class": "text",
-      "id": "701C1DE5-01DA-4050-B690-9BB0635B75E8"
-    },
-    {
-      "class": "text",
-      "id": "8CB273BC-2A23-47CE-8599-8B068A17C7EC"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "777C316A-0163-48D2-9D43-795BB92A708B"
-    },
-    {
-      "class": "text",
-      "id": "DAA29AA5-F168-4ABC-B699-256D700C7D72"
+      "id": "DEDCF16E-1AFF-4899-BB98-0DFBFCC18DD0"
     }
   ],
-  "name": "lateral/base/riesgos",
+  "name": "lateral/riesgos/hover",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

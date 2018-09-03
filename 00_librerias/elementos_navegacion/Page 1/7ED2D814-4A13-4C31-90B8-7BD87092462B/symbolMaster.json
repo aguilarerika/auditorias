@@ -1,0 +1,84 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "EBAF7A80-DCD6-4E46-827F-1E0E6583D40A",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 1465,
+  "do_objectID": "7ED2D814-4A13-4C31-90B8-7BD87092462B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6349C9B7-209B-4187-AF7A-F7B1E691DB28",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "291B9F41-5C9D-4494-AEE6-37B3E12AE4FF",
+    "height": 121,
+    "width": 170,
+    "x": -492,
+    "y": -438
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "89E8C087-F141-4AE9-85F3-8D7B021B3545",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "3ED66F98-95ED-44FC-BE6F-F5DE0B2DCA03"
+    }
+  ],
+  "name": "lateral/principal/defecto",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "29A88D52-2651-4BE2-BCE8-6C225FDE1A93",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "EDD0CCBE-9144-49E1-879F-A4E62A61CF50",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2C941055-05EB-45F0-B317-6BB9067C98A0",
+    "guides": [
+    ]
+  }
+}

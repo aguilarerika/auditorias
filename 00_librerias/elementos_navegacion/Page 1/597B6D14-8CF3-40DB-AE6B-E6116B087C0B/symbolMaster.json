@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1256,
+  "changeIdentifier": 1273,
   "do_objectID": "597B6D14-8CF3-40DB-AE6B-E6116B087C0B",
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,50 +50,10 @@
   "layers": [
     {
       "class": "group",
-      "id": "F3BB4DF4-02CF-4DD7-92A3-39E073662F11"
-    },
-    {
-      "class": "text",
-      "id": "D3951ABB-FC9D-414D-81E5-7B66CCA370DB"
-    },
-    {
-      "class": "text",
-      "id": "C11A933A-6CC1-4422-BC7C-1E1593724476"
-    },
-    {
-      "class": "text",
-      "id": "0F13BD30-48A2-401F-B147-BF12FD51C14C"
-    },
-    {
-      "class": "text",
-      "id": "C57D8631-BA23-4C8F-A1C3-2F132B395CF4"
-    },
-    {
-      "class": "text",
-      "id": "51213A90-045B-40B4-BB3D-810157A572C3"
-    },
-    {
-      "class": "group",
-      "id": "B96F0F90-151F-45B2-A785-FFA7AC5BF76A"
-    },
-    {
-      "class": "text",
-      "id": "E1C8AAB6-4EE6-44F9-961C-894386A2B87F"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "369FFCFB-6954-419C-9127-48ADCA2D8A8D"
-    },
-    {
-      "class": "text",
-      "id": "F3A0853C-C333-4B07-886F-4FD1A56F76EC"
-    },
-    {
-      "class": "group",
-      "id": "0B4CFBC6-F999-4A32-8D7F-75C5670A39AE"
+      "id": "BD33CA48-7347-4F92-8D1D-036A14987FFF"
     }
   ],
-  "name": "lateral/base/requerimientos",
+  "name": "lateral/requerimientos/hover",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

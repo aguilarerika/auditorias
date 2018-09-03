@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1493,
+  "changeIdentifier": 1529,
   "do_objectID": "27AC4404-0CDB-4589-813B-B4C902D004FE",
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,26 +50,10 @@
   "layers": [
     {
       "class": "group",
-      "id": "0685E18A-7B8C-4942-859C-F64506D2D479"
-    },
-    {
-      "class": "group",
-      "id": "C0024E7A-F0C7-4CB1-ADBE-C9D65C8C99F1"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "E89670C3-A5CC-4CC8-8025-CD108A0A9375"
-    },
-    {
-      "class": "text",
-      "id": "006FD2F4-4910-4C8C-ACCC-FFD1F21DF8D0"
-    },
-    {
-      "class": "group",
-      "id": "F622EE71-B0F8-4787-A05F-3F99BE47EC7C"
+      "id": "907B36BA-D730-4B39-B461-D1F1D4EB3C28"
     }
   ],
-  "name": "lateral/base/documentacion",
+  "name": "lateral/documentacion/hover",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSans-SemiBold",
-              "size": 48
+              "size": 64
             }
           },
           "paragraphStyle": {
@@ -48,12 +48,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "C73D56E5-07E6-454A-8E90-2088CC3894F1",
-    "height": 65,
-    "width": 111,
+    "height": 87,
+    "width": 148,
     "x": -690,
-    "y": -229
+    "y": -246
   },
-  "glyphBounds": "{{4, 16}, {105, 36}}",
+  "glyphBounds": "{{6, 22}, {139, 47}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -87,7 +87,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "OpenSans-SemiBold",
-            "size": 48
+            "size": 64
           }
         },
         "paragraphStyle": {
