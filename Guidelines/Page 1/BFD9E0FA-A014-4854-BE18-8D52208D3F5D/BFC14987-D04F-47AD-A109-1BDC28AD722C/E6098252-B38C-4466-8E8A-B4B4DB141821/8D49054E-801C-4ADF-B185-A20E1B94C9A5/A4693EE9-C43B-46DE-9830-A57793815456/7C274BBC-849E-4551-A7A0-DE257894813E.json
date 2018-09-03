@@ -27,11 +27,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 6,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "Hover\n"
+    "string": "Seleccionado \n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "7C274BBC-849E-4551-A7A0-DE257894813E",
@@ -51,18 +51,18 @@
     "constrainProportions": false,
     "do_objectID": "216570C1-06A2-4E3A-877E-0B8BB56904B8",
     "height": 38,
-    "width": 41,
+    "width": 89,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{1, 5}, {40, 11}}",
+  "glyphBounds": "{{0, 4}, {88, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Hover",
+  "name": "Seleccionado",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

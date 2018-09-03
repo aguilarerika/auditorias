@@ -36,7 +36,7 @@
     "thickGridTimes": 0
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -101,7 +101,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1240
   },
-  "name": "18_riesgos_mapa",
+  "name": "24_riesgos_mapa",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

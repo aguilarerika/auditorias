@@ -14,7 +14,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 363,
-    "width": 150,
+    "width": 170,
     "x": 0,
     "y": 0
   },
@@ -23,8 +23,12 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "group",
+      "id": "F622EE71-B0F8-4787-A05F-3F99BE47EC7C"
+    },
     {
       "class": "group",
       "id": "371781C9-5648-4834-B416-B5BC1FD10167"
@@ -40,10 +44,6 @@
     {
       "class": "symbolInstance",
       "id": "E89670C3-A5CC-4CC8-8025-CD108A0A9375"
-    },
-    {
-      "class": "group",
-      "id": "F622EE71-B0F8-4787-A05F-3F99BE47EC7C"
     }
   ],
   "name": "contenido",

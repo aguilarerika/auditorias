@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "A11D2359-6B65-474D-BE97-45CBF9B1AB43",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "828DF596-5720-44E7-ACD3-B37C652F9274",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6E2E97E3-AC40-41DF-BD73-166423CC9DBE",
+    "height": 21,
+    "width": 194,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "66F6A84E-722E-4275-944B-F80B95E5034D"
+    },
+    {
+      "class": "text",
+      "id": "6A5276DC-C78D-4726-9A7F-4F16EE24B1B9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "53D4BE1A-5C31-4BDC-B023-93A5AE3B0E16"
+    }
+  ],
+  "name": "miga",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F1CB6A23-DB11-4993-BD8E-377647F6817F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
