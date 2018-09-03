@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 2863,
+  "changeIdentifier": 2912,
   "do_objectID": "508CADDC-E146-4604-A14C-8ED3B9E645FE",
   "exportOptions": {
     "_class": "exportOptions",
@@ -69,20 +69,12 @@
       "id": "CC959122-73C1-4F0D-BC4B-3B9C1DAB2A30"
     },
     {
-      "class": "symbolInstance",
-      "id": "2AC303AD-A589-4D10-BF6E-3025BE8EA127"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "715F11C1-6C44-47ED-9DFC-9ABF84F7FD02"
+      "class": "group",
+      "id": "71F59BDF-9C5E-4919-84DD-F853DECEAA34"
     },
     {
       "class": "shapeGroup",
       "id": "45679958-665B-4BE2-846A-802E62030822"
-    },
-    {
-      "class": "text",
-      "id": "E11B77AD-2552-4D2C-BD66-99426212F3B2"
     },
     {
       "class": "text",
@@ -91,6 +83,10 @@
     {
       "class": "symbolInstance",
       "id": "8BA8D58D-F2EB-4EF8-A437-DCA34FAE58A5"
+    },
+    {
+      "class": "text",
+      "id": "35CB581E-6DEE-4C2C-A661-FB85B13C94C3"
     }
   ],
   "name": "documento/estado/edicion",

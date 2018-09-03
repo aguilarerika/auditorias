@@ -32,7 +32,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "D7E4D4BB-E7B5-492E-A667-81179C66455B",
-    "height": 5043,
+    "height": 6289,
     "width": 1440,
     "x": -3045,
     "y": -3110
@@ -150,6 +150,10 @@
     {
       "class": "text",
       "id": "EE674B69-F721-4CBC-BF80-1C896D07D00F"
+    },
+    {
+      "class": "text",
+      "id": "0FA26CEC-8895-4D32-B887-A8BA93BD1011"
     },
     {
       "class": "text",
@@ -278,6 +282,50 @@
     {
       "class": "text",
       "id": "E5326AE9-BB6D-402C-9E67-ECB5713ADE82"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B8E58E11-9DBE-442E-A8B6-1C8FB05891B2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6B5C5E2C-ABF7-43CB-BEDA-EFE62D0D64AC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "45B97360-ED46-4087-8FFB-03FE2514D3C5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BA025FD0-0E77-4DD0-BB19-505C0E832062"
+    },
+    {
+      "class": "text",
+      "id": "C1E09D24-7677-4B9A-B15A-88FD13527E34"
+    },
+    {
+      "class": "text",
+      "id": "12BBE739-0C28-443A-B85A-311C1D89B390"
+    },
+    {
+      "class": "text",
+      "id": "929BFE49-6825-4A0E-B97D-B8677C6C15BA"
+    },
+    {
+      "class": "text",
+      "id": "176C6DEF-F601-462B-B67A-B9813179492F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "26EC5D94-AE2E-4F42-BF8C-7A0F2EF21EDA"
+    },
+    {
+      "class": "text",
+      "id": "84F8665E-EAEB-4185-B377-55F9416C5C98"
+    },
+    {
+      "class": "text",
+      "id": "96380932-88C4-42DD-AEBC-CDC911D836AD"
     }
   ],
   "name": "Cards",
