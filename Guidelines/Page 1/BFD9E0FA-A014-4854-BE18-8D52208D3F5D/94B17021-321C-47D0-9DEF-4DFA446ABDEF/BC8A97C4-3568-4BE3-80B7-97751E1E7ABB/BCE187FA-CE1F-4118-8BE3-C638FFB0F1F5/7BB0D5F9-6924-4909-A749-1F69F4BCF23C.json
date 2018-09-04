@@ -29,11 +29,11 @@
             "minimumLineHeight": 20
           }
         },
-        "length": 45,
+        "length": 33,
         "location": 0
       }
     ],
-    "string": "Shadow \nColor #00000\n15% opacity \nX0 Y2 Blur6"
+    "string": "Shadow \nColor #E3E3E3\nX0 Y2 Blur6"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "7BB0D5F9-6924-4909-A749-1F69F4BCF23C",
@@ -52,19 +52,19 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "7BF2A036-5003-44A6-AFA5-660EEE7B919C",
-    "height": 80,
-    "width": 85,
+    "height": 60,
+    "width": 91,
     "x": 116,
     "y": 242
   },
-  "glyphBounds": "{{-1, 5}, {85, 72}}",
+  "glyphBounds": "{{-1, 5}, {91, 52}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "Shadow Color #00000",
+  "name": "Shadow Color #E3E3E3",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
