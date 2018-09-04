@@ -1,0 +1,83 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "DB23FCB4-1A76-46B9-9A19-2D840C85D55A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9F81FF14-2D41-495B-9EC0-98D18F398288",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A600BE07-DC4F-45CB-B2C1-F83DB6253C71",
+    "height": 2.000000000000001,
+    "width": 170,
+    "x": 908,
+    "y": 3257
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "30FCA866-6CE3-4D9E-B589-DEA4236A1656"
+    }
+  ],
+  "name": "Line 4 Copy 5",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "254239B6-9875-44FC-B30C-BE5979A460DA",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10.23264,
+      "type": 0
+    },
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5529411764705879,
+          "green": 0.06666666666666662,
+          "red": 0.9176470588235294
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "6655BAE5-22EE-47A4-8E1E-F00B16CF1785",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "9AA593AE-7972-4C36-863F-9A7FF3EF5063",
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "windingRule": 1
+}
