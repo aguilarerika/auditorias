@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 134,
-    "width": 210,
+    "height": 135,
+    "width": 415,
     "x": 0,
-    "y": 0
+    "y": 232
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -34,8 +34,16 @@
       "id": "E955AD79-3066-45CA-94FC-E400B8FD7337"
     },
     {
+      "class": "shapeGroup",
+      "id": "B54F773F-19DD-4495-BF4D-709FD75855A4"
+    },
+    {
       "class": "text",
       "id": "A0A1E5EC-AD70-4634-87A5-871EB15BA2C9"
+    },
+    {
+      "class": "text",
+      "id": "3ACF6776-B5D8-49E9-8030-30365FACA599"
     },
     {
       "class": "text",
@@ -43,11 +51,23 @@
     },
     {
       "class": "text",
+      "id": "1C6EB04B-5770-41D2-A4C8-27907187A5F4"
+    },
+    {
+      "class": "text",
       "id": "C9D0A595-2A25-4CF5-A5B3-11CD4700022C"
     },
     {
       "class": "text",
+      "id": "32BBD02D-A63B-45BD-8C11-8A68B89BE20D"
+    },
+    {
+      "class": "text",
       "id": "9A58FE96-29DD-4816-888C-0F3A6BD23CF2"
+    },
+    {
+      "class": "text",
+      "id": "B564FEA6-74A8-4ED6-94CE-7AB30AAC9775"
     },
     {
       "class": "shapeGroup",
@@ -55,7 +75,15 @@
     },
     {
       "class": "shapeGroup",
+      "id": "1F5127DA-AC2B-411F-BDBB-62CFADF68939"
+    },
+    {
+      "class": "shapeGroup",
       "id": "17825614-639F-4B8F-ACC3-EADE1A68B0E4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "50E559CE-8E65-4DA3-B52C-A0A1A2DB9203"
     },
     {
       "class": "shapeGroup",
@@ -63,11 +91,23 @@
     },
     {
       "class": "shapeGroup",
+      "id": "E3AE0BFA-866A-41A1-858B-DFD7FA99E1A5"
+    },
+    {
+      "class": "shapeGroup",
       "id": "B100906D-B12E-411D-82E2-3DE4A50836DC"
     },
     {
       "class": "shapeGroup",
+      "id": "74CED701-D69B-43EB-9292-718EA2D4DE09"
+    },
+    {
+      "class": "shapeGroup",
       "id": "CE0E6F4C-25D5-4336-AAF8-5B01E361DD77"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2F52DFBF-7123-4EE4-83B9-4BE43F2E9F0C"
     }
   ],
   "name": "medidas",

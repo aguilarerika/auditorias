@@ -1,0 +1,83 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "B54F773F-19DD-4495-BF4D-709FD75855A4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "54A456AC-7CCB-41DC-9279-189EB330F411",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "143A563B-FA9C-4F8E-B1D4-2FAD828C8092",
+    "height": 36,
+    "width": 2,
+    "x": 68,
+    "y": 1
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "03831B04-A55F-4CD3-ACC0-2A0330DF2A02"
+    }
+  ],
+  "name": "Line 2 Copy 3",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "DE3A2B65-24C1-45FA-BD21-A8DACD7F0F03",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10.23264,
+      "type": 0
+    },
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5529411764705879,
+          "green": 0.06666666666666662,
+          "red": 0.9176470588235294
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "1F4987AB-4BE9-44AE-85B8-3507B12FA454",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "9AA593AE-7972-4C36-863F-9A7FF3EF5063",
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "windingRule": 1
+}
